@@ -58,7 +58,7 @@
   - own·er.ship => owner【所有者】 + -ship抽象名词后缀。
 
 11. **property**
-  - n. 财产，不动产，房地产，性质，特性
+  - n. 财产，不动产，房地产，属性，性质，特性
   - proper·ty => proper-个人的 + -ty名词后缀。即个人或私人所有的财产或财物。
 
 12. **monopoly**
@@ -114,9 +114,9 @@ This is what a study, published from the University of California and Yale Unive
 - **what a study, ... has concluded**
   - published from the University of California and Yale University
   - 过去分词短语补充说明 a study
-    - **published**
-      - in the Proceedings of the National Academy of Sciences,
-      - 介词短语作地点状语
+  - **published**
+    - in the Proceedings of the National Academy of Sciences,
+    - 介词短语作地点状语
 
 #### 词汇注释
 
