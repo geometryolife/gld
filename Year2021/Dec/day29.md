@@ -16,25 +16,97 @@
 ### 背诵 20 个新单词
 
 1. **illustrate**
+  - v. 举例说明，作图解，阐明
+  - il·lustr·ate => il- 不断 + lustr- 光 + -ate 表动词 → 不断给光明 → 说明。
+
 2. **specific**
+  - n. 特效药，特性
+  - adj. 特殊的，明确的，具有特效的，特定的，具体的
+  - speci·f·ic => specify【指定】+ -ic → 指定的 → 具体的，是单词 specify 派生的形容词。
+
 3. **specify**
+  - vt. 详列，指定，说明
+  - speci·fy => speci- 种类 + -fy 使... → 说明种类 → 详列。
+
 4. **detail**
+  - n. 细节，详情
+  - vt. 详述，选派
+  - vi. 画详图
+  - de·tail => de- 加强 + tail- 剪 → 不断剪下去 → 琐事。
+
 5. **explanation**
+  - n. 解释，说明，辩解，表明
+  - ex·plan·ation => explain【解释】+ -ation 表名词，是单词 explain 派生的名词。
+
 6. **explanatory**
+  - adj. 说明的，解释的，辨明的
+  - ex·plan·atory => explain【解释】+ -atory 表形容词。
+
 7. **interpretation**
+  - n. 解释，演出，翻译
+  - inter·pret·ation => interpret【解释，翻译】+ -ation 表名词，是单词 interpret 派生的名词。
+
 8. **interpret**
+  - vt. 解释，演出，翻译，理解
+  - vi. 翻译，解释
+  - inter·pret => inter- 在内，在中间，相互 + pret- 词义不确定，可能来自 PIE 买卖，价值交换，引申词义中介，协商者，谈判者，后词义通用化为解释，理解，领会，及口译等。
+
 9. **misinterpretation**
+  - n. 误解，曲解
+  - mis·inter·pret·ation => mis- 坏的，错的，不好的 + interpret【理解】+ -ation 表名词。
+
 10. **exemplify**
+  - vt. 例证，例示，举例证明，是...的典型
+  - ex·empl·ify => ex- 出 + empl- 拿 + -ify 使...。
+
 11. **outline**
+  - n. 大纲，轮廓，概要
+  - vt. 描绘轮廓，描述要点
+  - out·line => out- 外面 + line【线】→ 外面的线 → 轮廓。
+
 12. **view**
+  - n. 视野，风景，见解，视力，观看，视图，指望，意图，印象
+  - vt. 看，考虑，视察，查看，估量
+  - view- = see，表示“看”。拉丁语（过去分词 visus）videre "to see" 进入古法语演变成 veue，对应 view。
+
 13. **observe**
+  - vt. 察觉到，遵守，注意到，庆祝
+  - vi. 注意，评论
+  - ob·serv·e => ob- 加强动作 + serv- 服务 + -e → 保持服务的状态 → 观察。
+
 14. **observation**
+  - n. 观察，注意，观测，注意力
+  - ob·serv·e => observe【观察，监视】+ -ation 表名词，是单词 observe 派生的名词。
+
 15. **witness**
+  - n. 证人，目击者，证据，证词
+  - vt. 目击，作证，证明，表明
+  - vi. 做证人，作为证据
+  - wit·ness => wit【智慧】+ -ness 名词后缀。引申词义见证，是单词 wit 派生的名词。
+
 16. **glance**
+  - n. 一瞥，扫视，一滑，闪光，辉金属
+  - v. 瞥一眼，扫视，浏览
+  - gl·ance => 来自拉丁文 glacies，冰，词源同 cold，插入鼻音字母 n. 即冰上滑过的光线，引申义瞥过。
+
 17. **glimpse**
+  - n. 一瞥，一闪
+  - v. 看一眼，瞥见，开始领悟
+  - gl·impse => 词源同 gleam，glimmer，微光，闪烁。引申义一瞥，瞥见。
+
 18. **suggest**
+  - vt. 提议，建议，促成，暗示，启发，使人想起
+  - sug·gest => sug- = sub- 在下面 + gest- 带来 → 字面含义带到下面 → 不明说，暗示。
+
 19. **suggestion**
+  - n. 提议，意见，示意
+  - sug·gest·ion => suggest【提议】+ -ion 名词后缀，是单词 suggest 派生的名词。
+
 20. **refer**
+  - vt. 提交，归诸于，把...提交，使求助于
+  - vi. 提到，涉及，查阅，查询，咨询
+  - re·fer => re- 再次 + fer- 带来 → 再次带来 → 提到。
+
 
 ### 赏析一句英语句子
 

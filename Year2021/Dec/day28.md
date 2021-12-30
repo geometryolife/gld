@@ -20,33 +20,33 @@
 2. **request**
   - n. 请求，需要，申请书
   - vt. 请求，要求，邀请
-  - re·quest => re-再 + quest【寻求】 → 再寻求 → 要求。
+  - re·quest => re- 再 + quest【寻求】 → 再寻求 → 要求。
 
 3. **affirm**
   - v. 断言，确认
-  - af·firm => af-一再 + firm【坚定】 → 一再坚定地说 → 证实。
+  - af·firm => af- 一再 + firm【坚定】 → 一再坚定地说 → 证实。
 
 4. **allegation**
   - n. 断言，主张，申辩
-  - alleg·ation => allege【宣称】 + -ation表名词，是单词 allege 派生的名词。
+  - alleg·ation => allege【宣称】 + -ation 表名词，是单词 allege 派生的名词。
 
 5. **ignore**
   - vt. 不理睬，忽略，忽视，驳回
-  - i·gnor·e => i-不 + gnor-知道 + -e → 不知道 → 不理睬。
+  - i·gnor·e => i- 不 + gnor- 知道 + -e → 不知道 → 不理睬。
 
 6. **ignorant**
   - adj. 无知识的，不知道的，由无知产生的
-  - i·gnor·ant => ignore【无知】 + -ant表形容词。
+  - i·gnor·ant => ignore【无知】 + -ant 表形容词。
 
 7. **neglect**
   - n. 疏忽，忽略，漏做
   - vt. 疏忽，忽视，不顾
-  - neg·lect => neg-否定 + lect-选择 → 不选择 → 忽视。
+  - neg·lect => neg- 否定 + lect- 选择 → 不选择 → 忽视。
 
 8. **overlook**
   - vt. 俯瞰，眺望，没注意到
   - n. 眺望，俯瞰到的景色
-  - over·look => over-上 + look【看】 → 在上面看 → 俯视，再上升为疏忽。
+  - over·look => over- 上 + look【看】 → 在上面看 → 俯视，再上升为疏忽。
 
 9. **own**
   - adj. 自己的，嫡亲的，同胞的
@@ -55,41 +55,41 @@
 
 10. **ownership**
   - n. 所有权，物主身份
-  - own·er.ship => owner【所有者】 + -ship抽象名词后缀。
+  - own·er.ship => owner【所有者】 + -ship 抽象名词后缀。
 
 11. **property**
   - n. 财产，不动产，房地产，属性，性质，特性
-  - proper·ty => proper-个人的 + -ty名词后缀。即个人或私人所有的财产或财物。
+  - proper·ty => proper- 个人的 + -ty 名词后缀。即个人或私人所有的财产或财物。
 
 12. **monopoly**
   - n. 垄断，专卖权，独占事业
-  - mono·poly => mono-单个的 + poly-卖 → 独家卖 → 垄断。
+  - mono·poly => mono- 单个的 + poly- 卖 → 独家卖 → 垄断。
 
 13. **possession**
   - n. 拥有，占有，所有，财产，领土，领地，自制，着迷
-  - poss·ess·ion => possess【拥有】 + -ion表名词 → 能坐在上面 → 拥有，是单词 possess 派生的名词。
+  - poss·ess·ion => possess【拥有】 + -ion 表名词 → 能坐在上面 → 拥有，是单词 possess 派生的名词。
 
 14. **possess**
   - vt. 持有，占有，拥有，克制，支配，迷住
-  - poss·ess => poss-有力的 + -ess存在。
+  - poss·ess => poss- 有力的 + -ess 存在。
 
 15. **occupy**
   - vt. 占领，占（时间、空间等），住进，担任，使从事，使全神贯注
-  - oc·cup·y => oc-再次 + cup-抓 + -y → 抓住地盘 → 占领。
+  - oc·cup·y => oc- 再次 + cup- 抓 + -y → 抓住地盘 → 占领。
 
 16. **occupation**
   - n. 职业，占有，占有期，占领，占领军
-  - oc·cup·ation => occupy【占用，占据，居住】 + -ation表名词。引申词义职业，是单词 occupy 派生的名词。
+  - oc·cup·ation => occupy【占用，占据，居住】 + -ation 表名词。引申词义职业，是单词 occupy 派生的名词。
 
 17. **state**
   - n. 州，状态，情形，国家，政府，隆重仪式
   - adj. 国家的，州的，邦的
   - v. 陈述，说明，公布，规定
-  - stat·e => estate n. 财产；身份和 state n.情况。罗马帝国后期罗马人越发觉着sc-,sp-和st开头的单词难发音或发音难听，就在前边加了个e-。
+  - stat·e => estate n. 财产；身份和 state n. 情况。罗马帝国后期罗马人越发觉着 sc-, sp- 和 st 开头的单词难发音或发音难听，就在前边加了个 e-。
 
 18. **statement**
   - n. 陈述，指令，声明，证词
-  - stat·e·ment => state【说明】 + -ment名词后缀 → 站着说话 → 声明立场。
+  - stat·e·ment => state【说明】 + -ment 名词后缀 → 站着说话 → 声明立场。
 
 19. **statesman**
   - n. 政治家
