@@ -25,7 +25,7 @@
   - speci·f·ic => specify【指定】+ -ic → 指定的 → 具体的，是单词 specify 派生的形容词。
 
 3. **specify**
-  - vt. 详列，指定，说明
+  - vt. 详列，指定，说明，阐述
   - speci·fy => speci- 种类 + -fy 使... → 说明种类 → 详列。
 
 4. **detail**
@@ -43,7 +43,7 @@
   - ex·plan·atory => explain【解释】+ -atory 表形容词。
 
 7. **interpretation**
-  - n. 解释，演出，翻译
+  - n. 解释，演出，翻译，阐明，演绎
   - inter·pret·ation => interpret【解释，翻译】+ -ation 表名词，是单词 interpret 派生的名词。
 
 8. **interpret**
