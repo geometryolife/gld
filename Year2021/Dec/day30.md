@@ -19,25 +19,94 @@
 ### 背诵 20 个新单词
 
 1. **reference**
+  - n. 参考，索引，参照，引用，提及，涉及，查阅，引文，参考书目，证明书，推荐信，证明人，推荐人
+  - v. 给...加上参考资料
+  - re·fer·ence => refer【查阅，参考】+ -ence，表名词。
+
 2. **mention**
+  - n. 提到，言及，陈述
+  - vt. 提到，提及
+  - ment·ion => ment- 思考 + -ion 名词后缀 → 有思考 → 想到，提到。
+
 3. **advocate**
+  - n. 提倡者，拥护者
+  - vt. 主张，提倡
+  - ad·voc·ate => ad- 去，往 + voc- 说 + -ate 动词后缀 → 说服人们去做 → 提倡。
+
 4. **propose**
+  - vt. 计划，打算，建议，提议，求（婚）
+  - vi. 打算，求婚
+  - pro·pos·e => pro- 向前 + pos- 放置 + -e → 拿出（观点）到前面 → 建议。
+
 5. **proposal**
+  - n. 提议，计划，求婚
+  - pro·pos·al => propose【提议】+ -al → 向前放 → 提建议。
+
 6. **urge**
+  - n. 冲动，推动力，迫切的要求
+  - vt. 敦促，推动，竭力主张
+  - vi. 强力要求
+  - 来自 PIE wreg，推，驱动，词源同 wreak，wrack。
+
 7. **lobby**
+  - n. 大厅，休息室，游说议员（的团体）
+  - vt. 游说，向...进行游说
+
 8. **recommend**
+  - vt. 推荐，介绍，劝告，使受欢迎，衬托
+  - re·com·mend => re- 再 + commend【赞扬】→ 一再赞扬。
+
 9. **recommendation**
+  - n. 推荐，介绍，推荐信，劝告
+  - re·com·mend·ation => recommend【推荐，举荐】+ -ation 表名词，是单词 recommend 派生的名词。
+
 10. **convincing**
+  - adj. 使人信服的，有力的，令人心悦诚服的
+  - con·vinc·ing => convince【使相信】+ -ing 表形容词 → 彻底征服对方 → 使[人]确信。
+
 11. **convince**
+  - vt. 说服，使相信
+  - con·vinc·e => con- 全部 + vinc- 征服 + -e → 彻底征服对方 → 使[人]确信。
+
 12. **persuade**
+  - vt. 使相信，劝，恳求，敦促，说服
+  - vi. 劝服，被说服
+  - per·suad·e => per- 始终 + suad- 劝 + -e → 一直劝 → 劝说。
+
 13. **persuasive**
+  - adj. 有说服力的，劝诱的，劝导性的
+  - per·suas·ive => per- 始终 + suas- 劝 + -ive 表形容词。
+
 14. **advisory**
+  - adj. 顾问的，咨询的，劝告的
+  - ad-使 + vis- 看 + -ory 表形容词 → 使[别人]看到 → 劝告[别人]。
+
 15. **announce**
+  - vt. 宣布，宣称，显示，预告
+  - vi. 当报幕员，宣布参加竞选
+  - an·nounce => an- 加强 + nounce- 讲话 → 通告。
+
 16. **announcement**
+  - n. 公告，发表，告知
+  - an·nounce·ment => announce【宣布】+ -ment 名词后缀。
+
 17. **publish**
+  - vt. 出版，发行，公开，发表，宣传，公布
+  - vi. 出版，发行
+  - publ·ish => publ- 人民 + -ish 表动词 → 进入人民中 → 出版。
+
 18. **publication**
+  - n. 出版物，出版，公布
+  - publ·ic·ation => public【公众的，公开的】+ -ation 表名词，是单词 public 派生的名词。
+
 19. **publicity**
+  - n. 名声，宣传，公开场合
+  - publ·ic·ity => public【公众的，公开的】+ -ity 表名词。
+
 20. **publicize**
+  - vt. 宣传
+  - publ·ic·ize => public【公众的，公开的】+ -ize 表动词。
+
 
 ### 赏析一句英语句子
 
@@ -143,6 +212,8 @@ The same people were used in both samples.
 **公忠体国**：指尽忠为国。出自《奴隶制时代·〈侈靡篇〉的研究》。
 
 **如人饮水，冷暖自知**：指自己经历的事，自己知道甘苦。
+
+**心悦诚服** 指由衷地高兴，真心地服气；在句子中可充当谓语、定语、状语；含褒义。出自于战国·孟轲《孟子·公孙丑上》。
 
 ## Summary
 
