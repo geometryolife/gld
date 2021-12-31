@@ -27,8 +27,8 @@
   - af·firm => af- 一再 + firm【坚定】 → 一再坚定地说 → 证实。
 
 4. **allegation**
-  - n. 断言，主张，申辩
-  - alleg·ation => allege【宣称】 + -ation 表名词，是单词 allege 派生的名词。
+  - n. 断言，主张，申辩，辩解，指控
+  - al·leg·ation => allege【宣称】+ -ation 表名词，是单词 allege 派生的名词。
 
 5. **ignore**
   - vt. 不理睬，忽略，忽视，驳回
