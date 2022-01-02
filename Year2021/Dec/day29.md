@@ -132,8 +132,8 @@ The study is a genome-wide analysis conducted on 1,932 unique subjects which com
 
 #### 词汇注释
 
-- `genome` 基因组，染色体组
-- `subject` 实验对象，接受受试者
+- `genome` n. 基因组，染色体组
+- `subject` n. 实验对象，接受受试者
 
 ### 学习杨旭的二分查找算法视频
 

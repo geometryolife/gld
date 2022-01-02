@@ -120,8 +120,8 @@ This is what a study, published from the University of California and Yale Unive
 
 #### 词汇注释
 
-- `proceedings` 会刊，公报
-- `academy` 学院，研究院，学会
+- `proceedings` n. 会刊，公报
+- `academy` n. 学院，研究院，学会
 
 
 ### 阅读一遍 NVIM REFERENCE MANUAL

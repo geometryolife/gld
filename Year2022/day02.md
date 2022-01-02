@@ -1,17 +1,80 @@
 # 2022年1月2日，星期日
 ## Todo List
 
-- [ ] 复习昨天的单词
-- [ ] [背诵 20 个新单词](#背诵-20-个新单词)
-- [ ] [赏析一句英语句子](#赏析一句英语句子)
+- [x] 复习昨天的单词
+- [x] [背诵 20 个新单词](#背诵-20-个新单词)
+- [x] [赏析一句英语句子](#赏析一句英语句子)
 --------
 - [ ] 给 Neovim 配置增加一个运行函数
 - [ ] 学习如何用 Lua 处理日期和时间
 - [ ] 复习二分查找算法
-- [ ] 给 blink 提关于中文输入法的 issue
+- [x] 给 blink 提关于中文输入法的 issue
+  - [x] 中文输入法第一次击键无法输入中文
+  - [x] 中文输入法无法输入正确的双引号
 - [ ] 交医保
 --------
-- [ ] 速看回顾李沐 d2l-v2 的视频 9～20 集
+- [x] 更新知乎的回答贴
+- [x] 记录收获
+- [x] 回顾前面所学的单词
+
+### 背诵 20 个新单词
+
+1. **manufacturer**
+2. **sense**
+3. **sensory**
+4. **perceive**
+5. **conscious**
+6. **consciousness**
+7. **subconscious**
+8. **detect**
+9. **detector**
+10. **cognitive**
+11. **comprehension**
+12. **predict**
+13. **prediction**
+14. **unpredictability**
+15. **forcast**
+16. **foreseeable**
+17. **create**
+18. **innovation**
+19. **innovative**
+20. **formulate**
+
+
+### 赏析一句英语句子
+
+The study also found that the genes for smell were something shared in friends but not genes for immunity.
+
+该研究还发现，朋友之间有着相似的嗅觉基因，而不具有相似的免疫力基因。
+
+#### 句子主干
+
+- The study also found （主+谓+宾从）
+- that the genes for smell were something
+  - that 引导的宾语从句，作 found 的宾语
+
+#### 一级修饰
+
+- **that**
+  - but not genes for immunity.
+  - 补充说明
+- **something**
+  - shared in friends
+  - 过去分词短语作后置定语，修饰 something
+
+#### 词汇注释
+
+- `smell` n. 嗅觉，气味
+- `immunity` n. 免疫力，豁免，免除
+
+### 中文输入法第一次击键无法输入中文
+
+[GitHub issue 地址](https://github.com/blinksh/blink/issues/1350)
+
+### 中文输入法无法输入正确的双引号
+
+[GitHub issue 地址](https://github.com/blinksh/blink/issues/1349)
+
 
 ## Get
 ### 使用 Git 的收获
@@ -195,4 +258,10 @@ git branch -a
 > 如果您想开始一个断开连接的历史记录，记录一组与`<start_point>`完全不同的路径，那么您应该在创建孤儿分支后立即从工作树的顶层运行`git rm -rf .`来清除索引和工作树。之后，您将准备好准备新文件，重新填充工作树，从其他地方复制它们，提取`tarball`等。
 
 
+## Others
+
+- `断言`：断言（assertion）是一种在程序中的一阶逻辑（如：一个结果为真或假的逻辑判断式），目的为了表示与验证软件开发者预期的结果——当程序执行到断言的位置时，对应的断言应该为真。若断言不为真时，程序会中止执行，并给出错误信息。
+
 ## Summary
+
+今天的收获蛮多的，明天坚持早起，加油！

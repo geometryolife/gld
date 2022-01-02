@@ -21,25 +21,93 @@
 ### 背诵 20 个新单词
 
 1. **release**
+  - n. 释放，发泄，豁免，发行，释放证书，发布
+  - vt. 释放，解除，放松，豁免，免除，发布，放弃，让与
+  - re·leas·e => re- 向后，离开 + leas- = lax- 松 + -e。
+
 2. **advertisement**
+  - n. 广告，启事，广告宣传
+  - ad·vert·ise·ment => advertise【广告】+ -ment 名词后缀。
+
 3. **advertising**
+  - n. 广告业，广告
+  - adj. 广告的
+  - ad·vert·is·ing => advertise【广告】+ -ing。
+
 4. **advertiser**
+  - 做广告者，广告客户
+  - ad·vert·is·er => advertise【广告】+ -er 表人，是单词 advertise 派生的动作执行者（施动）名词。
+
 5. **declaration**
+  - n. 宣告，宣布，说明
+  - de·clar·ation => declare【宣布】+ -ation 表名词，是单词 declare 派生的名词。
+
 6. **deal**
+  - n. 交易，协定，大量，发牌，买卖，松木板
+  - v. 经营，发牌，贩毒
+  - 来自 PIE dail，分配，词源同 time，demotic。引申词义发牌，交易，经营。
+
 7. **approach**
+  - n. 接近，入门
+  - vt. 接近，近似，找...商量
+  - vi. 靠近
+  - ap·proach => ap- 向，往，pro- 向前，proach = near 接近，词源同 approximate，接近，大约。
+
 8. **executive**
+  - n. 执行部门，执行委员会，执行者，经理主管人员
+  - adj. 执行的，善于执行的，善于经营的
+  - execut·ive => execute【执行】+ -ive 表形容词。
+
 9. **solution**
+  - n. 解决办法，答案，谜底，溶液，溶解（过程）
+  - solut·ion => 来自 solve【溶解，解决】+ -ution 名词后缀。
+
 10. **handle**
+  - n. 柄，把手，把柄，柄状物，手感，句柄
+  - vt. 触摸，运用，买卖，处理，操作
+  - vi. 搬运，易于操作
+  - hand·le => hand【手】+ -le 工具格后缀。引申词义操纵，比较 manipulate。
+
 11. **administration**
+  - n. 行政，管理，政府机关
+  - ad·ministr·at·ion => administrate【管理】+ -ion 表名，是单词 administrate 派生的名词。
+
 12. **regulation**
+  - n. 规则，管理，调整
+  - reg·ul·at·ion => regulate【管理，控制】+ -ion 名词后缀，是单词 regulate 派生的名词。
+
 13. **regulator**
+  - n. 调整者，校准者，校准器，调整器，标准钟
+  - reg·ul·at·or => regulate【调整】+ -or 表人或物，是单词 regulate 派生的动作执行者（施动）名词。
+
 14. **regulate**
+  - vt. 管理，控制，调节，调整，校准
+  - reg·ul·ate => 来自 regular【规则的，惯常的】，-ate 使。引申词义管理，控制等。
+
 15. **regulatory**
+  - adj. 受控制的，统制的，调整的
+  - reg·ul·at·ory => regulate【管理，控制】+ -ory 表形容词。
+
 16. **arrange**
+  - v. 安排，排列，达成协议
+  - ar·range => ar- + range【排列】→ 排列起来 → 安排。
+
 17. **supervise**
+  - v. 监管，管理，指导
+  - super·vis·e => super- 在上面 + vis- 看 + -e → 在上面看 → 监督。
+
 18. **supervision**
+  - n. 监督，管理
+  - super·vis·ion => supervise【监督】+ -ion 表名词，是单词 supervise 派生的名词。
+
 19. **surveillance**
+  - n. 监视，监督
+  - sur·veil·l·ance => sur- 上面 + veil- 看 + -l- + -ance → 在上面看 → 监视。
+
 20. **cope**
+  - vi. 处理，应付，竞争
+  - n. 法衣，长袍
+  - to cut，表示“砍”。源自希腊语 koptein "to strike"。
 
 
 ### 赏析一句英语句子
@@ -98,4 +166,4 @@ While 1% may seem insignificant, it is not so to a geneticist.
 2021 里发生了太多的事情，告别了许多人，经历很多难忘时刻，结束了大学之旅。
 2022，我来了，愿新的一年可以实现心中的期许。脚踏实地，勇敢追梦！
 
-[新年快乐！](<++>)
+[新年快乐！](../img/happyNewYear2022.PNG)

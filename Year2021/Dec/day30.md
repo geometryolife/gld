@@ -126,7 +126,7 @@ The same people were used in both samples.
 
 #### 词汇注释
 
-- `sample` 样本，样品，节录乐曲
+- `sample` n. 样本，样品，节录乐曲
 
 ## Get
 ### 偶然的收获

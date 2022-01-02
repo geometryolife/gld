@@ -124,8 +124,8 @@ Though not biologically related, friends are as "related" as fourth cousins, sha
     - 现在分词短语作伴随状语
 
 - 词汇注释
-  - `biologically` 生物地，生物学地，生物学上
-  - `gene` 基因
+  - `biologically` ad. 生物地，生物学地，生物学上
+  - `gene` n. 基因
 
 
 ## Get
