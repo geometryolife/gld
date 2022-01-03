@@ -20,25 +20,88 @@
 ### 背诵 20 个新单词
 
 1. **manufacturer**
+  - n. 制造业者，厂商
+  - manu·fact·ur·er => manufacture【制造】+ -er 表人，是单词 manufacture 派生的动作执行者（施动）名词。
+
 2. **sense**
+  - n. 感应，感觉，感官，意识，观念，情理，知觉，理智
+  - vt. 感觉，察觉，检测
+  - sens·e => sens- = feel，表示“感觉”。源自拉丁语 sentire "to feel"。
+
 3. **sensory**
+  - adj. 知觉的，感觉的，传递感觉的
+  - sens.ory => sens- 感觉 + -ory 表形容词。
+
 4. **perceive**
+  - vt. 感觉，认知，理解
+  - per·ceiv·e => per- 完全的 + ceive = cip- 抓住，理解。
+
 5. **conscious**
+  - adj. 有意识的，知觉的，觉察的
+  - con·sci·ous => con- 强调 + sci- 知道 + -ous 形容词后缀 → 知道的 → 有意识的。
+
 6. **consciousness**
+  - n. 意识，知觉，自觉
+  - con·sci·ous·ness => conscious【有意识的】+ -ness 表名词，是单词 conscious 派生的名词。
+
 7. **subconscious**
+  - n. 潜在意识，下意识
+  - adj. 下意识的，潜意识的
+  - sub·con·sci·ous => sub- 下面 + conscious【有意识的】→ 在意识之下 → 潜意识的。
+
 8. **detect**
+  - vt. 发现，察觉，探测
+  - de·tect => de- 不，非，使相反 + tect- 覆盖，即揭开覆盖，查明。
+
 9. **detector**
+  - n. 发现者，检验器，检波器
+  - de·tect·or => detect【发现，察觉】+ -or 表人，是单词 detect 派生的动作执行者（施动）名词。
+
 10. **cognitive**
+  - adj. 认知的，认识的
+  - co·gn·itive => co- 共同 + gn- 知道 + -itive 表形容词。
+
 11. **comprehension**
+  - n. 理解，包含
+  - com·prehens·ion => com- 全部 + prehens- 抓住 + -ion 表名词，是单词 comprehend 派生的名词。
+
 12. **predict**
+  - v. 预知，预言，预报
+  - pre·dict => pre- 预先 + dict- 说 → 预言。
+
 13. **prediction**
+  - n. 预言，预报
+  - pre·dict·ion => predict【预言】+ -ion 名词后缀，是单词 predict 派生的名词。
+
 14. **unpredictability**
+  - n. 不可预测性，不可预知性
+  - un·pre·dict·ab·ility => un- 不，非 + predict【预知】+ -ability 表名词。
+
 15. **forcast**
+  - n. 预想，预测，预报
+  - v. 预想，预测，预报
+  - fore·cast => fore- 在前 + cast【扔】→ 预先扔下 → 预料。
+
 16. **foreseeable**
+  - n. 在可以预见的未来
+  - adj. 可预见到的，可预知的，能预测的
+  - fore·see·able => foresee【预见，预知】+ -able 表形容词。
+
 17. **create**
+  - vt. 创造，建造，引起，任命
+  - cre·ate => cre- 增长 + -ate 表动词 → 增长 → 创造。
+
 18. **innovation**
+  - n. 改革，创新
+  - in·nov·ation => innovate【v. 改革，创新】+ -ion 表名词，是单词 innovate 派生的名词。
+
 19. **innovative**
+  - adj. 革新的，创新的，富有革新精神的
+  - in·nov·at·ive => in- 进入 + nov- 新 + -ative 表形容词，是单词 innovate 派生的形容词。
+
 20. **formulate**
+  - vt. 规划，制定，构想，准备，确切表达，认真阐述
+  - form·ul·ate => formula【公式】+ -ate 表动词 → 成公式。
 
 
 ### 赏析一句英语句子
