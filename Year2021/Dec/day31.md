@@ -166,4 +166,4 @@ While 1% may seem insignificant, it is not so to a geneticist.
 2021 里发生了太多的事情，告别了许多人，经历很多难忘时刻，结束了大学之旅。
 2022，我来了，愿新的一年可以实现心中的期许。脚踏实地，勇敢追梦！
 
-[新年快乐！](../img/happyNewYear2022.PNG)
+![新年快乐！](../../../img/pic2021/happyNewYear2022.PNG)
