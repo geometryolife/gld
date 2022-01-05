@@ -19,25 +19,100 @@
 ### 背诵 20 个新单词
 
 1. **formulation**
+  - n. 系统陈述，公式化，配置
+  - form·ul·ation => formulate【用公式表达】+ -ion 名词后缀，是单词 formulate 派生的名词。
+
 2. **invent**
+  - vt. 发明，创造，虚构
+  - in·vent => in- 进 + vent- 来 → 走进来 → 发明出。
+
 3. **novelty**
+  - n. 新奇，新鲜，新奇的事物
+  - nov·el·ty => novel【a. 新奇的】+ -ty 名词后缀。引申词义新奇，新颖。
+
 4. **promote**
+  - vt. 促进，晋升，创办，推销
+  - pro·mot·e => pro- 向前 + mot- 动 + -e → 向前动 → 促进。
+
 5. **further**
+  - vt. 促进，增进，助长
+  - adj. 更远的，此外的，更多的
+  - adv. 更进一步地，更远地，此外
+  - 用作 far 的比较级
+
 6. **contribute**
+  - vt. 有助于，捐助，投稿
+  - vi. 出力，捐献，投稿
+  - con·tribut·e => con- 全部 + tribut- 给予 + -e → 全部给出 → 捐献。
+
 7. **contributory**
+  - n. 贡献者，捐助者
+  - adj. 贡献的，捐助的
+  - con·tribut·ory => contribute【捐献】+ -ory
+
 8. **advance**
+  - n. 前进，进展，行过的路程
+  - vi. 前进，进展，提高，上涨
+  - vt. 使前进，促进，提出，提高，使提前，预付
+  - adj. 前面的，预先的
+  - advance = ahead，表示“前面”，来源于法语 avance 以前，其字母 d 是在 16 世纪时加进去的，词根 advant 为词根 advance 的变体。
+
 9. **advanced**
+  - adj. 在前的，高级的，先进的，年老的
+  - ad·vanc·ed => advance【前进，进展】+ -ed表形容词。
+
 10. **boost**
+  - n. 推进，吹捧
+  - vt. 推进，提高，宣扬，促进
+
 11. **motivate**
+  - vt. 给与动机，刺激，提高...的学习欲望，促动
+  - mot·iv·ate => motive【动机】+ -ate，表动词 → 使有动机 → 推动。
+
 12. **motion**
+  - n. 移动，手势，动作，意向，请求，提议
+  - v. 打手势
+  - mot·ion => mot- 动 + -ion 表名词。
+
 13. **motive**
+  - n. 动机，目的，主题，基调
+  - a. 运动的，成为动机的
+  - vt. 使产生动机
+  - mot·ive => mot- = mov- 动 + -ive, 表形容词。
+
 14. **motor**
+  - n. 马达，发动机，原动力，汽车
+  - adj. 马达的，发动机的，汽车的，发动的
+  - vt. 以汽车载运，推动
+  - vi. 乘汽车，驾车
+  - mot·or => mot-，mob-，mov- = move 动 + or 表物。
+
 15. **assist**
+  - n. 帮助，协助
+  - vt. 帮助，促进
+  - vi. 协助，参加
+  - as·sist => as- 加强动作 + sist- 站 → 站在一起 → 帮助。
+
 16. **propel**
+  - vt. 推进，驱使
+  - pro·pel => pro- 向前 + pel- 推 → 向前推 → 推进。
+
 17. **criticize**
+  - v. 批评，吹毛求疵，非难
+  - crit·ic·ize => critic【n. 批评家】+ -ize 表动词。
+
 18. **criticism**
+  - n. 批评，评论，非难
+  - crit·ic·ism => critic【n. 批评家】+ -ism。
+
 19. **critic**
+  - n. 批评家，鉴定家
+  - crit·ic => crit- 判断 + -ic 表名词，人或学科。
+
 20. **critique**
+  - n. 评论文章，评论
+  - crit·ique => crit- 判断 + -ique。
+
 
 ### 赏析一句英语句子
 
