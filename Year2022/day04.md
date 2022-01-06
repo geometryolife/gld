@@ -16,25 +16,93 @@
 ### 背诵 20 个新单词
 
 1. **blame**
+  - n. 过失，责备
+  - vt. 责备，归咎于
+  - blas- = to damage 表示“毁坏”。
+
 2. **condemn**
+  - vt. 谴责，指责，宣判，判处，迫使...接受困境，宣告使用...不安全，证明（或表明）有罪
+  - con·demn => com- 共同 + demn- 伤害 → 共同伤害 → 谴责。
+
 3. **found**
+  - vt. 建立，创立，铸造
+  - found- = base，表示“基础”。源自拉丁语 fundus "bottom，floor，ground"。
+
 4. **establish**
+  - vt. 建立，确立，制定
+  - vi. 移植生长
+  - e·stab·l·ish => e- 缓音字母 + stab- 建立 + -ish表动词。
+
 5. **established**
+  - adj. 固定的，既定的，确定的，确认的，建立的，（被）建立的，（被）制定的
+  - e·stab·l·ish·ed => establish【建立】+ -ed 表形容词。
+
 6. **establishment**
+  - n. 确定，确立，实施
+  - e·stab·l·ish·ment => establish【建立】+ -ment 表名词。
+
 7. **construct**
+  - vt. 构造，建造，对...进行构思，作图
+  - n. 构成物
+  - con·struct => con- 共同 + struct- 建立 → 共同建立 → 建造。
+
 8. **construction**
+  - n. 建筑，构造，建筑物
+  - con·struct·ion => con- 共同 + struction【建立】→ 共同建立 → 建造，是单词 construct 派生的名词。
+
 9. **provide**
+  - v. 提供，规定
+  - pro·vid·e => pro- 提前 + vid- 看 + -e → 提前看好 → 预备，提供。
+
 10. **supply**
+  - n. 补给，供给，供应品
+  - vt. 补给，供给，提供，补充
+  - vi. 替代
+  - sup·ply => sup- 在下面 + ply- = ple- 满。
+
 11. **cater**
+  - v. 提供饮食及服务，投合，迎合
+  - cap-,capt-，cept-，ceiv-，cip-，cup- = take，hold，seize，表示“拿，抓，握住”。源自拉丁语 capere "to take，seize，catch"。
+
 12. **equip**
+  - vt. 装备，配备
+
 13. **render**
+  - v. 给予，提供，回报，使成为，使变的，递交，呈献，提交，表达，表演，演示，翻译，粉刷，熬成油
+  - n. 底灰，底泥
+  - rend·er => rend- 给，和表示 don- 的词根有关。
+
 14. **provision**
+  - n. 提供，供给，饮食供应，准备，条款
+  - v. 为...提供所需物品（尤指食物）
+  - pro·vis·ion => pro- 向前 + vis- 看 + -ion 表名词。
+
 15. **gain**
+  - n. 增益，获得，利润，收获，增加
+  - vt. 得到，增进，赚到
+  - vi. 获利，增加
+
 16. **obtain**
-17. **aquire**
-18. **aquisition**
+  - vt. 获得，达到
+  - vi. 流行，得到公认
+  - ob·tain => ob- 加强动作 + tain- 拿 → 拿到 → 获得。
+
+17. **acquire**
+  - vt. 获得，购得，学到
+  - ac·quir·e => ac- 加强动作 + quir- 寻求，得到 + -e → 获取。
+
+18. **acquisition**
+  - n. 获得，获得物
+  - ac·quis·ition => ac- 去、往 + quis- 获得 + -ition 表名词
+
 19. **inherit**
+  - adj. 固有的，与生俱来的
+  - in·her·ent => inhere【vi. 固有】+ -ent 形容词后缀 → 天生[与身体内]连着 → 天赋的。
+
 20. **attain**
+  - v. 达到，获得
+  - at·tain => at- 加强动作 + tain- 拿 → 拿住了 → 获得。
+
 
 ### 赏析一句英语句子
 
@@ -60,6 +128,14 @@ Perhaps, as the team suggests, it draws us to similar environments but there is 
 
 > 写一个递归函数，不使用 * 运算符， 实现两个正整数的相乘。
 > 可以使用加号、减号、位移，但要吝啬一些。
+
+> 示例1：
+> 输入：A = 1, B = 10
+> 输出：10
+> 
+> 示例2：
+> 输入：A = 3, B = 4
+> 输出：12
 
 
 ## Others
