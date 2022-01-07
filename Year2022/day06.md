@@ -15,25 +15,95 @@
 ### 背诵 20 个新单词
 
 1. **supposed**
+  - a. 想象上的，假定的，被信以为真的
+  - suppose【假定】+ ed 形容词后缀。
+
 2. **infer**
+  - vt. 推论出，推断
+  - vi. 作推论
+  - in·fer => in- 进入 + fer- 带来 → 带进[意义] → 推断。
+
 3. **inference**
+  - n. 推论
+  - infer【推断，推论】+ -ence 表名词。
+
 4. **wonder**
+  - n. 奇迹，惊奇，惊愕
+  - vt. 惊奇，想知道
+  - vi. 惊讶，怀疑
+  - 来自 Proto-Germanic wundran，奇迹，奇观，来自 PIE wen，努力，希望，希冀，词源同 Venus，win，wish。引申词义幻想，奇迹，纳闷。
+
 5. **assumption**
+  - n. 假定，自负，担任，假装
+  - as·sumpt·ion => as- + sumpt- 拿 + -ion → 拿往 → 担任。
+
 6. **assume**
+  - vt. 假定，承担，呈现
+  - vi. 装腔作势，僭越
+  - as·sum·e => as- 加强动作 + sum- 拿 + -e → 拿往 → 承担[责任]。
+
 7. **speculate**
+  - vi. 深思，推测，投机
+  - spec·ul·ate => spec- 看 + -ul + -ate 表动词 → 看准了 → 思考，投机。
+
 8. **hypothesis**
+  - n. 假设
+  - hypo·thes·is => hypo- 下面 + thes- 放 + is → 放在下面，还不能作为正式理论 → 假说。
+
 9. **premise**
+  - n. 经营场所，办公场所，提前，假定
+  - v. 预先提出，引出，作为...什么的前提
+  - pre·mise => pre- 预先 + mis- 送 + -e → 预先送出 → 前提。
+
 10. **presumably**
+  - ad. 推测上，推测起来，大概
+  - pre·sum·ably => presume【假设，假想】+ -ably 表副词。
+
 11. **bet**
+  - n. 打赌，赌注
+  - v. 打赌
+  - 来自 bait，诱饵，诱使，打赌。
+
 12. **protect**
+  - vt. 防卫，保护，警戒
+  - pro·tect => pro- 在前面 + tect- 盖 → 在前面盖上 → 保护。
+
 13. **prevent**
+  - v. 预防，防止，阻止，妨碍
+  - pre·vent => pre- 预先 + vent- 来 → 预先来到 → 抢先一步，防止别人。
+
 14. **prevention**
+  - n. 阻止，妨碍，预防
+  - pre·vent·ion => prevent【预防】+ -ion 名词后缀，是单词 prevent 派生的名词。
+
 15. **security**
+  - n. 安全，安全性，防护物，保安，可靠性，担保人，抵押品，保证金
+  - se·cur·ity => secure【安全的，可靠的】+ -ity 名词后缀。引申词义保安，安保措施，债券等。
+
 16. **secure**
+  - a. 无虑的，安心的，安全的，可靠的，保险的
+  - vt. 固定，获得，保证，使安全，掩护，招致
+  - vi. 停止操作，船抛锚
+  - se·cur·e => se- 分开 + cur- 关心 + -e → 不关心，不担忧 → 安全的。
+
 17. **insecurity**
+  - n. 不安全，不安全感
+  - in·se·cur·ity => insecure【a. 不安全的】+ -ity 表名词。
+
 18. **insurance**
+  - n. 保险，保险业，保险费
+  - in·sur·ance => insure【投保】+ -ance 表名词。
+
 19. **insure**
+  - vt. 保险，确保
+  - vi. 投保
+  - in·sur·e => in- 进入 + sure【肯定】 → 进入肯定 → 不担心 → 保险。
+
 20. **guard**
+  - n. 守卫者，警戒，护卫队，防护装置
+  - vt. 保卫，看守，当心
+  - vi. 防止，警惕，警卫，看守
+
 
 ### 赏析一句英语句子
 
@@ -92,6 +162,11 @@ One of the remarkable findings of the study was that the similar genes seem to b
 
 这个应该是 HR UP 主制作的，这个面试分析视频对我作用很大，里面讲的一些问题我认为如果是我去面试，我肯定也会犯。
 这个 UP 主一顿分析下来，让我更能换位思考 HR，很感谢她这次分享。
+
+#### Other
+
+**装腔作势**：意思是故意装出一种腔调，做出一种姿势，用来比喻故意做作。出自《西湖佳话·西泠韵迹》。
+**僭越**：指超越本分行事。古时指地位低下的冒用在上的名义或器物等等，尤指用皇家专用的。
 
 ## Summary
 
