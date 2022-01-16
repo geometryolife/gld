@@ -11,25 +11,95 @@
 ### 背诵 20 个新单词
 
 1. **convey**
+  - vt. 传送，运输，转让
+  - con·vey => con- 共同 + vey- 道路 → 共同用路 → 运输。
+
 2. **transition**
+  - n. 转变，转换，变迁，过渡时期，临时转调
+  - trans·it·ion => trans- 交换 + it- 走 + -ion 名词后缀 → 交换走 → 过渡。
+
 3. **transfer**
+  - n. 迁移，移动，传递，转让，转移，过户，汇兑，换车
+  - vt. 使转移，调转，调任，改变，传递，转让
+  - vi. 转移，转学，转职，换车
+  - trans·fer => trans- 交换 + fer- 带来 → 交换带走 → 转移。
+
 4. **transportation**
+  - n. 运输，输送，交通车辆
+  - trans·port·ation => transport【n. 运输】+ -ation 名词后缀，是单词 transport 派生的名词。
+
 5. **transport**
+  - n. 运输，运输系统，运输工具，激动，狂喜
+  - vt. 传送，运输，<古>流放
+  - trans·port => trans- 横过，越过，转变，转移 + port- 搬运，港口，携带。
+
 6. **transmit**
+  - vt. 传输，传染，传达，遗传，发射，传播
+  - vi. 发射信号，流传下来
+  - trans·mit => trans- 横 + mit- 送 → 横送过去 → 传达。
+
 7. **carrier**
+  - n. 运送者，邮递员，带菌者
+  - carr·i·er => carry【运载】+ -i- + er 表人，是单词 carry 派生的动作执行者（施动）名词。
+
 8. **transplant**
+  - vt. 使移居，移植，使迁移
+  - vi. 移居，耐移植
+  - n. 移居者，移植
+  - trans·plant => trans- 横过，越过，转变，转移 + plant- 种植。
+
 9. **journey**
+  - n. 路程，旅行，行程
+  - vt. 游历
+  - vi. 旅行
+  - journ·ey => journ- 日期 + -ey。
+
 10. **mobility**
+  - n. 可动性，流动性，机动性
+  - mob·il·ity => mobile【移动的】+ -ity 名词后缀。引申词义流动能力。
+
 11. **distribution**
+  - n. 分配
+  - dis·tribut·ion => distribute【vt. 分配，散布，分发】+ -ion 名词后缀 → 分配，是单词 distribute 派生的名词。
+
 12. **distribute**
+  - vt. 分配，散布，分发
+  - dis·tribut·e => dis- 分开 + tribut- 给予 + -e → 分开给 → 分配。
+
 13. **assign**
+  - vt. 分配，指派，赋值
+  - as·sign => as- 强调 + sign【符号】→ 不断给人信号 → 指定。
+
 14. **allocation**
+  - n. 配置，分配，拨给
+  - al·loc·at·ion => allocate【分配】+ -ion 表名词，是单词 allocate 派生的名词。
+
 15. **appointment**
+  - n. 约会，委任的职位，委派
+  - ap·point·ment => appoint【任命】+ -ment名词后缀。
+
 16. **appoint**
+  - vt. 任命，指定，下令
+  - ap·point => ap- + point【指】→ 指定。
+
 17. **quit**
+  - vt. 离开，放弃，使解除，停止
+  - vi. 离开，辞职，停止
+  - n. 离开
+  - quit- 词源同 quite 引申词义免于干扰，免于麻烦，后用于指自由的，释放的，结清债务的。并引申动词词义离开，离职等。比较 acquit，requite。
+
 18. **dismiss**
+  - v. 消除，摒弃，对...不屑一顾，解雇，开除，驳回，不受理，出局
+  - dis·miss => dis- 不，非 + miss- 送 → 送出 → 解散。
+
 19. **vanish**
+  - vi. 消失，不见，成为零
+  - van·ish => van- 空 + -ish 表动词 → 空空 → 消失了。
+
 20. **withdraw**
+  - vt. 撤回，取回，撤销，使撤退，拉开，移开
+  - vi. 撤退，离开
+  - with·draw => with- 向后 + draw 拉 → 向后拉 → 撤回。
 
 
 ### 赏析一句英语句子
