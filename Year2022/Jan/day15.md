@@ -13,25 +13,93 @@
 ### 背诵 20 个新单词
 
 1. **evade**
+  - v. 逃避，（巧妙地）逃脱，规避
+  - e·vad·e => e- 出 + vad- 走 + -e → 走出去 → 逃避。
+
 2. **flee**
+  - vt. 逃避，逃跑，逃走
+  - vi. 逃，消失
+  - 来自 PIE pleu 飞，词源同 fly 引申词义飞走。
+
 3. **retreat**
+  - n. 撤退，隐居，退避，退缩，隐居处
+  - vi. 撤退，离开，退缩，隐退，躲避，跌价
+  - re·treat => re- 回 + treat【处理】 → 处理回去 → 退回去 → 隐退。
+
 4. **fulfill**
+  - vt. 实践，履行，实行，完成，结束，满足
+  - ful·fill => ful 同 full 满的，完全的。fill 装满。引申词义实现。
+
 5. **fulfillment**
+  - n. 履行，结束，完成，实现，满意，称心
+  - ful·fill·ment => fulfill【履行】+ -ment 名词后缀。
+
 6. **engage**
+  - vi. 答应，从事，交战
+  - vt. 使忙碌，雇佣，预定，使从事于，使参加
+  - en·gag·e => en- 进入，使 + gage 承诺，加入，词义由承诺向多方面扩展。
+
 7. **engagement**
+  - n. 诺言，约会，婚姻，交战
+  - en·gag·e·ment => engage【从事】+ -ment 名词后缀。
+
 8. **engaged**
+  - a. 忙碌的，使用中的
+  - engage【从事】+ -ed 表形容词。
+
 9. **implement**
+  - n. 工具，器具，手段
+  - vt. 实现，使生效，执行
+  - im·ple·ment => im- 进 + ple- 满 + -ment 表名词 → 进入满 → 完成。
+
 10. **implementation**
+  - n. 安装启用，实行，履行
+  - im·ple·ment·ation => implement【工具，手段】+ -ation 表名词，是单词 implement 派生的名词。
+
 11. **exert**
+  - vt. 发挥，运用，施以影响
+  - ex·ert => ex- 向外 + sert- 连接，即断开，推出，词义进一步扩大为行使，竭力。
+
 12. **resort**
+  - n. 度假胜地，手段，凭借，常去之地
+  - vi. 诉诸，常去
+  - re·sort => re- 往回，再 + sort 来自（缩写自）拉丁语 surrectus 起来的，来自 sur- 向上，-rect 竖直，拉直。引申词义度假区，度假胜地。
+
 13. **operational**
+  - a. 操作的，运作的
+  - oper·at·ion·al => operation【操作】+ -al 形容词后缀。
+
 14. **operative**
+  - a. 动作的，运转的，有效的，关键的，手术的
+  - n. 技工，侦探
+  - oper·at·ive => operate【运作，操作】+ -ive 表形容词，是单词 operate 派生的形容词。
+
 15. **operator**
+  - n. 操作员，行家，经纪人，算子，运算符
+  - oper·at·or => operate【运作，操作】+ -or 表人，是单词 operate 派生的动作执行者（施动）名词。
+
 16. **exploit**
+  - n. 功绩，勋绩
+  - vt. 开发，利用，开拓，剥削
+  - ex·ploit => ex- 向外 + ploit- 卷。后在19世纪初由于法国空想社会主义者，尤其是圣西门用该词指剥削，压榨，使得这一词义广泛传播。
+
 17. **exploitation**
+  - n. 开发，开采，剥削
+  - ex·ploit·ation => exploit【开发】+ -ation 表名词，是单词 exploit 派生的名词。
+
 18. **practitioner**
+  - n. 专门人才，（医学或法律）从业者
+  - pract·ition·er => pract- 行为 + -ition + -er 表人。
+
 19. **slave**
+  - n. 奴隶，从动装置，卑鄙的人
+  - vi. 拼命工作
+  - slav·e => slave - 从形式上看 slave 一词同另一个词 Slav 颇为相似，实际上 slave 也正是源于 Slav 的。
+
 20. **slavery**
+  - n. 奴隶的身份，奴隶的状态，奴隶制度
+  - slav·ery => slave【奴隶】+ -ery 表名词。
+
 
 ### 赏析一句英语句子
 
