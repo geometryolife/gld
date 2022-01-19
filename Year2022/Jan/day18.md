@@ -5,7 +5,7 @@
 - [x] [背诵 20 个新单词](#背诵-20-个新单词)
 - [x] [赏析一句英语句子](#赏析一句英语句子)
 --------
-- [x] [写一篇知乎回答贴之编程能够带来食物和水吗？](#写一篇知乎回答贴之编程能够带来食物和水吗？)
+- [x] [写一篇知乎回答贴--编程能够带来食物和水吗](#写一篇知乎回答贴--编程能够带来食物和水吗)
 - [x] 同步回答贴到公众号、今日头条、CSDN
 - [x] [使用 Neovim 自带的 man 查看器](#使用-Neovim-自带的-man-查看器)
 
@@ -40,6 +40,7 @@
 6. **disposable**
   - a. 一次性的，可任意处理的
   - dis·pos·able => dispose【处理】+ -able 表形容词。
+  - dis·pos·able => dis- 分开 + pos- 放 + -able 能……的 → 可到处放置的 → 可自由支配的，一次性的
 
 7. **cooperate**
   - vi. 合作，协力，配合
@@ -138,7 +139,7 @@ But unlike their absolutist counterparts in the Gulf and Asia, most royal famili
 - `respected` a. 受尊敬的
 - `figure` n. 人物
 
-### 写一篇知乎回答贴之编程能够带来食物和水吗？
+### 写一篇知乎回答贴--编程能够带来食物和水吗
 
 1. 导言：
 
