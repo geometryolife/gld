@@ -5,33 +5,100 @@
 - [x] [背诵 20 个新单词](#背诵-20-个新单词)
 - [x] [赏析一句英语句子](#赏析一句英语句子)
 --------
-- [x] [写一篇知乎回答贴——编程能够带来食物和水吗？](#写一篇知乎回答贴——编程能够带来食物和水吗？)
+- [x] [写一篇知乎回答贴之编程能够带来食物和水吗？](#写一篇知乎回答贴之编程能够带来食物和水吗？)
 - [x] 同步回答贴到公众号、今日头条、CSDN
-- [x] [使用 Neovim 自带的 `man` 查看器](#使用-Neovim-自带的-`man`-查看器)
+- [x] [使用 Neovim 自带的 man 查看器](#使用-Neovim-自带的-man-查看器)
 
 
 ### 背诵 20 个新单词
 
 1. **memorize**
+  - vt. 记住，熟记，背熟
+  - memor·ize => memor- 记忆 + -ize 使 → 记住。
+
 2. **recite**
+  - v. 背诵，朗读，叙述
+  - re·cit·e => re- 向后，往回 + cite 召唤，援引。引申词义想起，背诵，朗诵。
+
 3. **abandon**
+  - vt. 放弃，抛弃，遗弃，沉溺于，放纵
+  - n. 放任，放纵
+  - a·band·on => a- = ad- + band- 命令 + -on 表名词 → 在别人的控制中，无限制的 → 放弃。
+
 4. **discard**
+  - vt. 丢弃，抛弃
+  - vi. 垫牌
+  - n. 垫牌，抛弃
+  - dis-去掉 + card【卡片】→ 把【卡片】扔掉 → 抛弃。
+
 5. **sacrifice**
+  - n. 牺牲，供奉，祭品
+  - vt. 牺牲，祭祀，贱卖
+  - vi. 献祭
+  - sacr·i·fic·e => sacr- 神圣的 + -i- + fic- 做 + -e → 做出来献给神的东西 → 牺牲品。
+
 6. **disposable**
+  - a. 一次性的，可任意处理的
+  - dis·pos·able => dispose【处理】+ -able 表形容词。
+
 7. **cooperate**
+  - vi. 合作，协力，配合
+  - co·oper·ate => co- 共同 + oper- 工作 + -ate 表动词 → 共同工作。
+
 8. **cooperation**
+  - n. 合作，协力，配合
+  - co·oper·ation => cooperate【合作】+ -ion 名词后缀，是单词 cooperate 派生的名词。
+
 9. **collective**
+  - a. 集体的，聚集的，共同的
+  - col·lect·ive => collect【搜集】+ -ive 表形容词 → 集中到一起 → 集体的，是单词 collect 派生的形容词。
+
 10. **collaborative**
+  - n. 合作的
+  - col·labor·at·ive => col- 一起 + labor- 劳动 + -at + ive 形容词后缀 → 一起劳动的 → 合作的。
+
 11. **joint**
+  - n. 关节，接头，连接处，一块烤肉，公共场所，大麻烟卷
+  - a. 联合的，共同的
+  - v. 把……切成带骨的大块肉
+  - joint- = join 结合，连接。
+
 12. **mutual**
+  - a. 相互的，共有的
+  - mut·ual => mut- 改变，交换 + -ual 形容词后缀 → 你变我也变 → 相互的。
+
 13. **alliance**
+  - n. 联盟，联合
+  - all·i·ance => ally【使联盟】+ -i- + -ance 表名词 。
+
 14. **defend**
+  - vt. 防护，辩护，防卫
+  - de·fend => de- 去掉 + fend- 打击 → 去掉打击 → 打退敌人 → 保卫。
+
 15. **defendant**
+  - n. 被告
+  - de·fend·ant => defend【防护】+ -ant 名词后缀。
+
 16. **defense**
+  - n. 防卫，防卫物
+  - de·fens·e => de- 去掉 + fens- 打击 + -e → 防止打击 → 防卫。
+
 17. **confront**
+  - vt. 使面对，对抗，遭遇，使对质，比较
+  - con·front => con- 互相，共同 + front- 面对 → 互相面对 → 对抗。
+
 18. **confrontation**
+  - n. 对抗，冲突
+  - con·front·ation => confront【v. 对抗】+ -ation 表名词，是单词 confront 派生的名词。
+
 19. **resisant**
+  - n. 抵抗者，反抗者
+  - a. 抵抗的，反抗的
+  - re·sist·ant => re- 反 + sist- 站 + -ant 名词、形容词后缀 → 反着站的人 → 反抗者。
+
 20. **resistance**
+  - n. 抵抗力，反抗，耐力，阻力，电阻
+  - re·sist·ance => resist【反抗，抑制】+ -ance 表名词。
 
 
 ### 赏析一句英语句子
@@ -71,7 +138,7 @@ But unlike their absolutist counterparts in the Gulf and Asia, most royal famili
 - `respected` a. 受尊敬的
 - `figure` n. 人物
 
-### 写一篇知乎回答贴——编程能够带来食物和水吗？
+### 写一篇知乎回答贴之编程能够带来食物和水吗？
 
 1. 导言：
 
@@ -79,7 +146,9 @@ But unlike their absolutist counterparts in the Gulf and Asia, most royal famili
 最近在回顾《黑客帝国》前三部，准备看第四部，你这个问题突然激发了我一些思考，觉得蛮有意思的，我来谈谈我的想法。
 看完影片，你或许会发出相同的疑问：
 
-我们这个世界是真实的吗？或者说什么才是真实的？
+**我们这个世界是真实的吗？或者说什么才是真实的？**
+
+![黑客帝国4预告](../../../img/pic2022/jan/d18/theMatrix.jpg)
 
 2. 剧情背景：
 
@@ -136,7 +205,7 @@ But unlike their absolutist counterparts in the Gulf and Asia, most royal famili
 
 感谢你能读到这里，也感谢提出这个问题的知友，让我产出这部分有意思的内容。
 
-### 使用 Neovim 自带的 `man` 查看器
+### 使用 Neovim 自带的 man 查看器
 
 之前我一直在想，如何用 Vim 来查看 `man (Manual)` 文档，但是我找了许久，都没找到相关的插件。
 今天在群里看到了一个群友问了这个问题，刚好有人抛了一条 `Stack Overflow` 的相关链接。

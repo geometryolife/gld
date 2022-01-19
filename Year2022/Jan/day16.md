@@ -6,7 +6,7 @@
 - [x] [赏析一句英语句子](#赏析一句英语句子)
 --------
 - [x] 回顾一遍前面学习过的单词
-- [x] 向 blink 提关于防止 ssh 休眠的 issue
+- [x] [向 blink 提关于防止 ssh 休眠的 issue](#向-blink-提关于防止-ssh-休眠的-issue)
 - [x] 给 geonv 增加一些配置
   - [x] vim-table-mode 插件
   - [x] vim-go 插件
@@ -142,6 +142,10 @@ It is this apparent transcendence of politics that explains monarchs' continuing
 - `transcendence` n. 超越
 - `monarch` n. 君主，帝王
 - `continuing` a. 继续的，连续的，持续的
+
+### 向 blink 提关于防止 ssh 休眠的 issue
+
+[issue 地址](https://github.com/blinksh/blink/issues/1355)
 
 ## Get
 ### 偶然的收获

@@ -172,7 +172,7 @@ Studying this could help understand why human evolution picked pace in the last 
 - 然后，再遍历一遍剩余的（4个）元素，将剩余元素中最小的元素放在第三位；
 - 以此类推，最终就能得到一个从小到大排序好的数组。
 
-![选择排序原理图]()
+![选择排序原理图](../../../img/pic2022/jan/d7/selectionSort.jpg)
 
 #### 复杂度
 
