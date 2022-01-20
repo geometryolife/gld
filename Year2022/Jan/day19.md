@@ -6,8 +6,8 @@
 - [x] [赏析一句英语句子](#赏析一句英语句子)
 --------
 - [x] 看曾仕强教授讲易经的智慧2集
-  - [x] 龙马负图
-  - [x] 神龟载书
+  - [x] 1. 龙马负图
+  - [x] 2. 神龟载书
 - [x] 梳理`Rongrong姐`的快速背单词技巧
 - [x] 看徕芬吹风机发布会的视频
 - [x] 看 UP 主执事介绍 UP 主
@@ -16,25 +16,97 @@
 ### 背诵 20 个新单词
 
 1. **withstand**
-1. **destroy**
-1. **destruction**
-1. **ruin**
-1. **undermine**
-1. **disruptive**
-1. **devastating**
-1. **prison**
-1. **imprison**
-1. **confine**
-1. **arrest**
-1. **intimate**
-1. **privacy**
-1. **lean**
-1. **cling**
-1. **embrace**
-1. **absorb**
-1. **integrate**
-1. **integrity**
-1. **integration**
+  - vt. 承受，抵住，顶住，经得起
+  - with·stand => with- 反 + stand → 反着站 → 抵抗。
+
+2. **destroy**
+  - vt. 破坏，毁坏，消灭
+  - de·stroy => de- 坏 + stroy = struct → 把建造的东西弄坏 → 损坏。
+
+3. **destruction**
+  - n. 破坏，毁灭
+  - de·struct·ion => destruct【破坏】+ -ion 表名词，是单词 destruct 派生的名词。
+
+4. **ruin**
+  - n. 毁灭，推翻，废墟
+  - vi. 毁灭，衰败，破环，破产，堕落
+  - vt. 使毁灭，毁坏，使破产
+
+5. **undermine**
+  - vt. 在……下面挖，渐渐破坏，暗地里破坏
+  - under·mine => under- 在下面 + mine【挖】→ 挖墙角。
+
+6. **disruptive**
+  - a. 分裂的，破坏（性）的
+  - dis·rupt·ive => disrupt【使分裂】+ -ive 表形容词，是单词 disrupt 派生的形容词。
+
+7. **devastating**
+  - a. 毁灭性的，（非正式）很好的，引人注目的
+  - de·vast·at·ing => de- 强调，整个的 + vast- 空 + -ate 表动词 + -ing 形容词后缀 → 即整个摧毁 → 毁灭性的。
+
+8. **prison**
+  - n. 监狱，监禁，拘留所
+  - vt. 监禁
+  - pris·on => pris- 拿住，抓住 + -on → 被抓住了 → 监禁 → 监狱。
+
+9. **imprison**
+  - vt. 使下狱，关闭，拘禁，限制
+  - im·pris·on => im- 进入，使 + prison【监狱】。
+
+10. **confine**
+  - vt. 限制，使不外出，禁闭
+  - vi. 邻接，交界
+  - n. 边缘，范围，区域
+  - con·fin·e => con- 全部 + fin- 限制 + -e → 全限制 → 监禁。
+
+11. **arrest**
+  - n. 逮捕，监禁
+  - vt. 拘留，抑制，吸引，阻止
+  - ar·rest => ar- 向，往 + rest- 停下 → 不让动 → 逮捕。
+
+12. **intimate**
+  - a. 亲密的，私人的，秘密的
+  - vt. 暗示，通知，告诉
+  - n. 至交
+  - intim·ate => intim- 内心的 + -ate 表形容词 → 亲密的。
+
+13. **privacy**
+  - n. 隐私，隐居，秘密
+  - priv·acy => priv- 个人 + -acy 名词后缀。引申词义隐私，私密。
+
+14. **lean**
+  - n. 瘦肉，倾斜，倾斜度
+  - a. 瘦的，贫乏的，歉收的
+  - vi. 倚靠，倾斜，依赖
+  - vt. 使倾斜
+
+15. **cling**
+  - vi. 粘紧，附着，紧贴，坚持
+
+16. **embrace**
+  - n. 拥抱
+  - vt. 拥抱，互相拥抱，包含，收买
+  - vi. 拥抱
+  - em·brace => em- 进入 + brace【臂】→ 进入两臂 → 拥抱。
+
+17. **absorb**
+  - vt. 吸收，使全神贯注，同化，买进，理解，承受，忍受，承担
+  - ab·sorb => ab- 离开 + sorb- 吸收 → 吸收掉。
+
+18. **integrate**
+  - vt. 综合，使完整，使成整体
+  - vi. 成一体
+  - a. 完整的，完全的
+  - in·tegr·ate => in- 不，非 + tegr- 接触 + -ate 表动词，引申词义使一体化。
+
+19. **integrity**
+  - n. 正直，廉正，完整
+  - in·tegr·ity => in- 不 + tegr- 接触 + -ity 表名词 → 不接触违法的事 → 廉正，正直。
+
+20. **integration**
+  - n. 综合，与环境协调的行为，集成
+  - in·tegr·at·ion => integrate【完整】+ -ion 表名词，是单词 integrate 派生的名词。
+
 
 ### 赏析一句英语句子
 
