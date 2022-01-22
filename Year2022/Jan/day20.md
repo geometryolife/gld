@@ -16,25 +16,99 @@
 ### 背诵 20 个新单词
 
 1. **integrated**
+  - a. 综合的，完整的，互相协调的
+  - in·tegr·at·ed => integrate【完整】+ -ed 形容词后缀 → 完整的。
+  - integr- = whole 表示“完整”，由前缀 in-（否定）+ tag-（接触）组成。
+
 2. **recruit**
+  - n. 新年，新手，新会员，补给品
+  - vt. 恢复，补充，充实，征募
+  - vi. 征募新兵，复原，得到补充
+  - re·cruit => re- 再 + cruit- 生长 → 恢复。
+
 3. **assimilation**
+  - n. 同化，同化作用，吸收
+  - as·simil·at·ion => assimilate【vt. 使同化】+ -ion 表名词，是单词 assimilate 派生的名词。
+
 4. **assimilate**
+  - vt. 使同化，吸收，使相似，把……比作
+  - vi. 被吸收，被同化
+  - as·simil·ate => as- 强调 + simil- 相同 + -ate 表动词 → 成为相同 → 同化。
+
 5. **enroll**
+  - vt. 登记，使加入
+  - vi. 参军，注册
+  - en·roll => en- 进入，使 + roll【卷，册】。
+  - en- 入、内、在……之内，使……，rol- 圆，环，滚动
+
 6. **enrollment**
+  - n. 登记，注册，入伍
+  - en·roll·ment => enroll【登记】 + -ment 表名词。
+
 7. **inject**
+  - vt. 注射，注入，使入轨
+  - in·ject => in- 进 + ject- 扔 → 扔进去 → 注射。
+
 8. **enlist**
+  - vt. 征募，参与，谋取
+  - vi. 从军，应募，赞助
+  - en·list => en- 进入，使 + list【清单，列表】。
+
 9. **imitate**
+  - vt. 模仿，效法，冒充，仿造
+  - imit·ate => imit- 像 + -ate 表动词 → 做得相像 → 模仿。
+
 10. **imitation**
+  - n. 模仿，效法，冒充，赝品
+  - imit·at·ion => imitate【模仿】+ -ion 表名词。引申词义模仿品，仿制品，是单词 imitate 派生的名词。
+
 11. **duplication**
+  - n. 副本，复制
+  - du·plic·at·ion => duplicate【副本】+ -ion 表名词，是单词 duplicate 派生的名词。
+
 12. **clone**
+  - n. 靠营养生殖而由母体分离繁殖的植物，无性繁殖，无性系，克隆
+  - vt. 无性繁殖，克隆
+
 13. **attack**
+  - n. 攻击，抨击
+  - vt. 攻击，抨击，动手干
+  - vi. 攻击
+  - at·tack => at- 强调 + tack- = tach- = nail 钉子 → 眼中钉 → 攻击，抨击。
+
 14. **predator**
+  - n. 食肉动物，掠夺者
+  - pred·ator => pred- 掠夺，掠食 + -ator 表名词，做事的人或物。
+
 15. **plague**
+  - n. 瘟疫，天罚，麻烦，灾祸
+  - vt. 折磨，使苦恼，使得灾祸
+  - plag·ue => plag- 击打 + -ue。
+
 16. **hack**
+  - n. 劈，砍，砍痕，出租车，干咳，晒架，鹤嘴锄
+  - vt. 劈，砍，出租，用旧
+  - vi. 劈，砍，干咳，驾驶出租车
+  - a. 出租的
+
 17. **backward**
+  - a. 向后的，相反的
+  - ad. 向后地，相反地
+  - back·ward => back【后面】+ -ward 向... → 向后的。
+
 18. **fade**
+  - vi. 褪色，消失，凋谢
+  - vt. 使褪色
+  - n. 淡入，淡出
+  - a. 平淡的
+
 19. **recession**
+  - n. 后退，凹处，衰退，归还
+  - re·cess·ion => recess【休息】+ -ion 名词后缀 → 走回去 → 撤退，是单词 recess 派生的名词。
+
 20. **downgrade**
+  - vt. 使降低，使降级
+  - down·grad·e => down【向下】+ grad- 步，级 → 降级。
 
 
 ### 赏析一句英语句子
