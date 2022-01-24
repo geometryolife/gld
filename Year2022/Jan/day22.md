@@ -47,7 +47,7 @@
 7. **fluctuate**
   - vi. 变动，起伏，动摇
   - vt. 使波动，使动摇
-  - fluctu·ate => fluctu- 流动 + -ate 表动词。
+  - fluct·u·ate => fluct- 流动 + -u- + -ate 表动词。
 
 8. **tempt**
   - vt. 诱惑，引诱，引起……的兴趣，吸引，冒……风险
