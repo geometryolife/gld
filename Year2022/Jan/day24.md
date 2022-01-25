@@ -15,25 +15,68 @@
 ### 背诵 20 个新单词
 
 1. **means**
+  -
+
 2. **meaningless**
+  -
+
 3. **indicate**
+  -
+
 4. **indicator**
+  -
+
 5. **indicative**
+  -
+
 6. **imply**
+  -
+
 7. **implication**
+  -
+
 8. **implicit**
+  -
+
 9. **entail**
+  -
+
 10. **function**
+  -
+
 11. **functional**
+  -
+
 12. **available**
+  -
+
 13. **availability**
+  -
+
 14. **resource**
+  -
+
 15. **worthwhile**
+  -
+
 16. **necessarily**
+  -
+
 17. **necessity**
+  -
+
 18. **necessitate**
+  -
+
 19. **individual**
+  - n. 人，个人，个体
+  - a. 个别的，个人的，独特的
+  - in·di·vid·ual => in- 不 + divide【分】+ -ual 表名词、形容词 → 不能再分开了 → 个人。
+  - di·vid·e => di- 分开，散开 + vid- 分开 → 分开。
+
 20. **unique**
+  - a. 独一无二的，独特的，稀罕的，唯一的
+  - uni·que => uni- 单一，一个 + -que 形容词后缀 → 唯一的。
 
 
 ### 赏析一句英语句子
