@@ -15,58 +15,83 @@
 ### 背诵 20 个新单词
 
 1. **means**
-  -
+  - n. 方法，手段，工具，财产，收入
+  - 来自 mean 中间的。后形容词做名词，引申词义调解人，调停人，有影响力的人，最终用于指方式，方法，并引申词义钱财，财富。
 
 2. **meaningless**
-  -
+  - a. 无意义的
+  - mean·ing·less => meaning【意义】+ -less 无，没有 → 无意义。
+  - mean·ing => mean【意思，意味着】+ -ing 表名词或形容词。
 
 3. **indicate**
-  -
+  - vt. 显示，象征，指示，指出
+  - in·dic·ate => in- 进入 + dic- 说 + -ate 表动词 → 说进去 → 指示，指明。
 
 4. **indicator**
-  -
+  - n. 指示器，指示剂，指标
+  - in·dic·at·or => indicate【指示】+ -or 表物，是单词 indicate 派生的动作执行者（施动）名词。
 
 5. **indicative**
-  -
+  - a. 指示的，象征的，表示……的
+  - in·dic·at·ive => indicate【指示】+ -ive 表形容词，是单词 indicate 派生的形容词。
 
 6. **imply**
-  -
+  - vt. 暗示，意味
+  - im·ply => im- 进入 + ply- 折叠 → 重叠表达 → 暗示[表面一层意思，后面一层意思]。
 
 7. **implication**
-  -
+  - n. 牵连，含义，暗示
+  - im·plic·at·ion => implicate【牵连，牵涉】+ -ion 表名词，是单词 implicate 派生的名词。
+  - im·plic·ate => im- 进 + plic- 折叠 + -ate 表动词 → [说话]进入重叠 → 含蓄表达。
 
 8. **implicit**
-  -
+  - a. 暗示的，含蓄的，固有的，绝对的
+  - im·plic·it => im- 进 + plic- 折叠 + it → 重叠表达 → 含蓄的。
 
 9. **entail**
-  -
+  - vt. 使成为必须，需要，使承担，遗传给
+  - n. 限定继承
+  - en·tail => en- 使 + tail- 剪，割 → 把剪下的东西给别人。
 
 10. **function**
-  -
+  - n. 官能，职务，功能，函数
+  - vi. 活动，运行，行使职责
+  - funct·ion => funct- 活动 + -ion 表名词 → 能完成活动的东西。
+  - 来自拉丁语 functio 履行，执行。
 
 11. **functional**
-  -
+  - a. 功能的
+  - funct·ion·al => function【功能】+ -al 形容词后缀。
 
 12. **available**
-  -
+  - a. 可利用的，可获得的，有效的
+  - avai·lable => avail【有用】+ -able 表形容词。
+  - a·vail => a- 使 + vail- 强壮 → 使……强壮 → 利用[力量]。
 
 13. **availability**
-  -
+  - n. 有效性，可利用性，可利用的人
+  - a·vail·ability => avail【有用】+ -ability 复合词根，由 -able 和 -ity 组成，表名词。
 
 14. **resource**
-  -
+  - n. 资源，财力，办法，策略，急智，消遣
+  - re·source => re- 向后，往回 + source【资源】。引申词义才智，谋略。
 
 15. **worthwhile**
-  -
+  - a. 值得花时间的，值得做的，有真实价值的
+  - worth·while => worth- 价值 + while【一会儿，一段时间】→ 这一段时间是有价值的 → 值得去做，有价值。
 
 16. **necessarily**
-  -
+  - ad. 必然地，必须地，必要地
+  - ne·cess·arily => necessary【必要的，必需的】+ -ily 表副词，是单词 necessary 派生的副词。
+  - ne·cess·ary => ne- 否认 + cess- 走 + -ary 表形容词。
 
 17. **necessity**
-  -
+  - n. 需要，必需品，必然
+  - ne·cess·ity => ne- 否认 + cess- 走 + -ity 表名词，指具备某种性质。
 
 18. **necessitate**
-  -
+  - vt. 迫使，使成为必需，需要
+  - ne·cess·it·ate => ne- 否定 + cess- 走 + -it- + =ate 表动词 → 不能走的，离不开的 → 必不可少。
 
 19. **individual**
   - n. 人，个人，个体
