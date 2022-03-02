@@ -30,15 +30,50 @@
 ### 背诵 10 个新单词
 
 1. **diverse**
+  - a. 不同的，变化多的
+  - di·vers·e => di- 分开 + vers- 转 + -e → 转开了 → 不同的。
+
 2. **diversity**
+  - n. 差异，多样性
+  - di·vers·ity => diverse【不同的, 变化多的】+ -ity 表名词。
+
 3. **gap**
+  - n. 缝隙，缺口，间断，间距，通用汇编程序
+  - vt. 打开缺口，造成缝隙
+  - vi. 豁开
+
 4. **comparison**
+  - n. 比较，对照，比喻
+  - com·par·e => compare【比较】+ ison 表名词。
+  - com·par·e => com- 共同 + par- 平等 + -e → 平等放在一起 → 比较。
+
 5. **comparative**
+  - a. 比较的，相对的
+  - n. 对手
+  - com·par·ative => compare【比较】+ -ative 表形容词，是单词 compare 派生的形容词。
+
 6. **distinction**
+  - n. 区别
+  - di·stinc·ion => distinct【不同的】+ -ion 名词后缀，是单词 distinct 派生的名词。
+  - di·stinct·ion => di- = dis- 分开 + stinct 刺 → 把刺分开 → 与众不同的 → 明显的。
+
 7. **distinctly**
+  - ad. 显然地，明显地，清楚地
+  - di·stinct·ly => distinct【不同的】+ -ly 副词后缀，是单词 distinct 派生的副词。
+
 8. **distinguish**
+  - v. 区别，辨别
+  - di·stingu·ish => di- 分开 + stingu- = sting 刺 + -ish → 把刺分开 → 区别。
+
 9. **distinguished**
+  - a. 卓著的，显著的
+  - di·stingu·ish·ed => distinguish【区别】+ -ed 表形容词 → 与众不同的 → 著名的。
+
 10. **discrimination**
+  - n. 差别，歧视，辨别力
+  - dis·crimin·at·ion => discriminate【区分，歧视】+ -ion 表名词，是单词 discriminate 派生的名词。
+  - dis·crimin·ate => dis- 分开 + crimin- 区分 + -ate → 区别对待 → 歧视。
+
 
 ### 赏析一句英语句子
 
@@ -50,7 +85,7 @@ California has asked the justices to refrain from a sweeping ruling, particularl
 
 - California has asked the justices to refrain from a sweeping ruling, （主+谓+宾+宾补）
 
-#### 一级修饰
+#### 一级修饰、二级修饰、三级修饰
 
 - **a sweeping ruling**
   - particularly one
@@ -74,7 +109,6 @@ California has asked the justices to refrain from a sweeping ruling, particularl
 - `at the time` 那时候
 
 ### 每日一道算法题
-
 
 [66.加一](https://leetcode-cn.com/problems/plus-one)
 
