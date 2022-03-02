@@ -26,15 +26,54 @@
 ### 背诵 10 个新单词
 
 1. **valid**
+  - a. 有确实根据的，有法律效率的，正当的，正确的，有效的
+
 2. **invalidate**
+  - vt. 使无效
+  - in·valid·ate => in- 不，非 + valid【有效的】+ -ate 表动词。
+
 3. **extreme**
+  - n. 极端，末端
+  - a. 极端的，尽头的，极度的，偏激的
+  - extr·eme => extr- 超过 + eme 表最高级 → 超出主题 → 极端的。
+
 4. **particularly**
+  - ad. 特别，尤其
+  - part·ic·ular·ly => particular【特别的】+ -ly 副词后缀，是单词 particular 派生的副词。
+  - part·ic·ular => part- 部分 + -ic + -ular 有……的 → 有自己的部分 → 特别的。
+
 5. **radical**
+  - n. 激进分子，词根，基础，根式，根
+  - a. 激进的，根本的，基本的，根的
+  - rad·ical => rad- 根 + -ical 形容词后缀 → 根上的，引申词义根本的，激进的。
+
 6. **absolute**
+  - a. 绝对的，专制的，完全的，独立的
+  - n. 绝对事物
+  - ab·solut·e => ab- 不 + solut- 松开 + -e → 决不松开 → 绝对的。
+
 7. **critically**
+  - ad. 批评性地，审慎地，精密地
+  - crit·ic·al·ly => critical【a. 批评的】+ -ly 表副词，是单词 critical 派生的副词。
+  - crit·ic·al => crit- 判断，分辨 + -ic 名词后缀 + -al 形容词后缀 → 批评的。
+
 8. **specifically**
+  - ad. 特定地，明确地，按特性
+  - specific【特殊的, 明确的】+ -ally 表副词 → 明确地。
+  - speci·f·ic => specify【指定】+ -ic → 指定的 → 具体的，是单词 specify 派生的形容词。
+  - speci·fy => speci- 外观，种类 + -fy 使…… → 说明种类 → 详列。
+
 9. **contrast**
+  - n. 差别，对比，对照物
+  - vt. 使对比
+  - vi. 成对照
+  - contra·st => contra- 相对，相反 + st- 站，字面含义“站在一起、放在一起”，引申为比较。
+
 10. **contrary**
+  - a. 相反的，矛盾的，对立的
+  - n. 相反，对立面
+  - ad. 相反地
+  - contr·ary => contra- 反 + -ary 形容词后缀 → 相反的。
 
 
 ### 赏析一句英语句子
