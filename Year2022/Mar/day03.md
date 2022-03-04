@@ -17,15 +17,56 @@
 ### 背诵 10 个新单词
 
 1. **differentiate**
+  - v. 区别，区分
+  - dif·fer·ent·i·ate => different【不同的】+ -i- + -ate 表动词。引申义辨别，使差异化。
+  - dif·fer·ent => differ【不同】+ -ent 表形容词。
+  - dif·fer => dif- 分开 + fer- 带来 → 分开带 → 不同。
+
 2. **entire**
+  - n. 整个，全部
+  - a. 全体的，完全的，全部的
+  - en·tir·e => en- 否定 + tir- 接触 + -e → 没有被接触过，没有被破坏过 → 完整的。
+
 3. **general**
+  - n. 一般，将军，大体
+  - a. 全面的，大体的，总的，一般的，普遍的
+  - n. 常规
+  - gener·al => gener- 出生 + -al → 出生[一般] → 普通的。
+
 4. **overall**
+  - a. 全部的，全体的，从头至尾的，一切在内的
+  - ad. 从头到位，总的来说
+  - n. 罩衫，工作服
+  - over·all => over- 在上 + all【全部的】。
+
 5. **throughout**
+  - ad. 到处，贯穿全部地，自始自终
+  - prep. 遍及，在各处
+  - through·out => through【穿越】+ out 外面的。
+
 6. **comprehensive**
+  - a. 广泛的，有理解力的，综合的
+  - com·prehens·ive => com- 全部 + prehens- 抓住 + -ive 表形容词 → 全部抓住的 → 综合性的，是单词 comprehend 派生的形容词。
+
 7. **universal**
+  - a. 全世界的，普遍的，宇宙的，通明的
+  - n. 一般概念
+  - uni·vers·al => uni- 一个 + vers- 转 + -al 名词或形容词后缀 → 即转为一体的，引申义通用的。
+
 8. **universality**
+  - n. 大学
+  - uni·vers·ity => uni- 一个 + vers- 转 + -ity 表名词 → 由宇宙引申为知识，知识之地 → 大学。
+
 9. **wholly**
+  - ad. 完全地，整个，统统，全部
+  - whol·ly => whole【全部】+ -ly 副词后缀，是单词 whole 派生的副词。
+
 10. **link**
+  - n. 环，连结物，链接，火把
+  - vt. 连结，联合，挽住
+  - vi. 连接起来
+  - 来自 PIE kleng 弯，转。来自 PIE klei 弯，转，倾斜，词源同 lean，incline 引申词义关联，联系。
+
 
 ### 赏析一句英语句子
 
