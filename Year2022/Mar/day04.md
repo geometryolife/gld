@@ -16,15 +16,51 @@
 ### 背诵 10 个新单词
 
 1. **related**
+  - a. 讲述的，叙述的，有关系的，有关联的，相关的，有联系的
+  - re·lat·ed => relate【相关，讲】+ -ed 表形容词 → 相关的，讲述的。
+
 2. **relatively**
+  - ad. 相对地，比较地，相当地，相关地
+  - re·lat·ive·ly => relative【有关系的】+ -ly 副词后缀，是单词 relative 派生的副词。
+
 3. **relate**
+  - vt. 讲，叙述，使互相关联
+  - vi. 有关，符合，相处得好
+  - re·lat·e => re- 向后，往回 + lat- 拿，带 + -e → 即带回来，引申词系联系，相关。
+
 4. **relative**
+  - n. 亲戚，关系词
+  - a. 有关系的，相对的，比较的
+  - re·lat·ive => relate【关系，相关】 + -ive 形容词后缀，是单词 relate 派生的形容词。
+
 5. **tie**
+  - n. 带子，线，鞋带，领带，领结，关系，束缚，平局，不分胜负
+  - vt. 系，打结，扎，约束，与...成平局
+  - vi. 结合，打结，不分胜负
+
 6. **contact**
+  - n. 联系，交际，熟人，接触
+  - vi. 接触，联系
+  - vt. 使接触
+  - con·tact => con- 共同 + tact- 接触 → 共同接触。
+
 7. **concerning**
+  - prep. 关于
+  - con·cern·ing => concern【关心】+ -ing 表介词。
+  - con·cern => con- 强调 + cern- 分开，筛选，即区分开的，关心自己那一部分的。
+
 8. **relevant**
+  - a. 有关联的，有关系的，适当的，相应的
+  - re·lev·ant => re- 再 + lev- 举起 + -ant 表形容词 → 再举起 → 有关的。
+
 9. **irrelevant**
-10. **reguarding**
+  - a. 不恰当的，无关系的，不相干的
+  - ir·re·lev·ant => ir- 不，非 + relevant【相关的】→ 不相关。
+
+10. **regarding**
+  - prep. 关于，至于
+  - re·gard·ing => regard【和……有关】+ -ing 表介词。
+  - re·gard => re- 再，重新 + gard- 看，看护 → 一再看护 → 关心，看待。
 
 
 ### 赏析一句英语句子
