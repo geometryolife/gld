@@ -23,15 +23,46 @@
 ### 背诵 10 个新单词
 
 1. **accuracy**
+  - n. 精确，正确
+  - ac·cur·acy => ac- 加强 + cur- 关心 + -acy 名词后缀 → 一再关心 → 精确。
+
 2. **extend**
+  - v. 扩充，延伸，伸展，扩大
+  - ex·tend => ex- 出 + tend- 延展 → 伸出去 → 扩张。
+
 3. **extensive**
+  - a. 广的，广泛的，多方面的
+  - ex·tens·ive => ex- 出 + tens- 延展 + -ive 表形容词 → 伸出去的 → 广泛的。
+
 4. **extension**
+  - n. 扩大，延伸，扩建部分，延期，电话分机，进修课，扩展名
+  - ex·tens·ion => ex- 出 + tens- 延展 + -ion 表名词。
+
 5. **broad**
+  - a. 宽（广）的，（辽）阔的，广（大）的，宽宏的，胸襟开阔的，显著的，明显的，大概的，不详细的
+  - n. 宽阔部分
+
 6. **broadly**
+  - ad. 宽广地，露骨地，概括地，明显地，明白地，无礼貌地，粗鄙地
+  - broad·ly => broad【宽】+ -ly 表副词，是单词 broad 派生的副词。
+
 7. **expand**
+  - v. 使膨胀，详述，扩张，开张，发展，展开
+  - ex·pand => ex- 向外 + pand- 展开，词源同 pace，feather。
+
 8. **expansion**
+  - n. 扩充，开展，膨胀
+  - ex·pans·ion => expanse【宽阔】+ -ion 名词后缀，是单词 expanse 派生的名词。
+  - ex·pans·e => ex- 向外 + pans- 展开 + -e。
+
 9. **vast**
+  - a. 巨大的，广大的，非常的，大量的
+  - vast- = empty 空。来自拉丁语 vastus 荒废的，空无的，引申词义辽阔的，无垠的，词源同 vain，waste。
+
 10. **enlarge**
+  - vt. 扩大，增大
+  - vi. 扩大，详述
+  - en·large => en- 进入，使 + large【大】→ 扩大。
 
 
 ### 赏析一句英语句子
