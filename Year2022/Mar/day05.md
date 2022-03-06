@@ -25,15 +25,55 @@
 ### 背诵 10 个新单词
 
 1. **duty**
-1. **responsible**
-1. **oblige**
-1. **obligation**
-1. **ought**
-1. **liability**
-1. **exactly**
-1. **precisely**
-1. **precision**
-1. **elaborate**
+  - n. 责任，关税，职务，尊敬
+  - 来自 due, 欠债的，应当的。引申词义责任，税。
+
+2. **responsible**
+  - a. 有责任的，负责的，责任重大的
+  - re·spons·ible => response【回应】+ -ible 表形容词 → 能回应的 → 负责任的。
+  - re·spons·e => re- 回 + spons- 承诺 + -e 承诺回答 → 回答，响应。
+  - re·spond => re- 回 + spond【承诺】→ 承诺回去 → 回答。
+
+3. **oblige**
+  - vt. 强制，施恩惠于，使感激
+  - vi. 施恩惠，帮忙
+  - ob·lig·e => ob- 加强 + lig- 绑 + -e → 绑住某人 → 迫使，束缚。
+
+4. **obligation**
+  - n. 义务，责任，职责，恩惠，约束
+  - ob·lig·at·ion => obligate【vt. 使负义务】+ -ion 表名词，是单词 obligate 派生的名词。
+
+5. **ought**
+  - aux. v. 应该，大概
+  - n. 责任
+  - 来自古英语 ahte 拥有的，所有的。
+  - 来自 agan 的过去分词，拥有，所有，词源同 own，owe 后词义由拥有的引申为有义务去支付或偿还，并最终在语法上演变成虚拟情态动词。
+
+6. **liability**
+  - n. 责任，负债，累赘
+  - li·abil·ity => li- = lig- 捆绑 + -abil = -able + -il “可……的，能……” + -ity 表名词 → 人和义务捆绑 → 责任。
+  - li·able => li- = lig-，loy- 捆绑 + -able 表形容词 → 有义务的，应负责任的。
+
+7. **exactly**
+  - ad. 确切地，精确地，恰好，完全地，确实，恰恰正是，确实如此
+  - ex·act·ly => exact【精确地】+ -ly 表副词，是单词 exact 派生的副词。
+  - ex·act => ex- 出 + act- 做 → [要求]做出来 → 强求。
+
+8. **precisely**
+  - ad. 精确地，明确地，刻板地，拘泥地，正好，恰恰，对，正是如此，确实如此，不错
+  - pre·cis·ly => pre- 向前 + cis- 切，雕刻 + -e → 向前雕刻，继续雕刻 → 精确的。
+  - pre·cis·e => precise【精确地】 + -ly 表副词，是单词 precise 派生的副词。
+
+9. **precision**
+  - n. 精密，精确，精确度，精度
+  - a. 精密的，精确的
+  - pre·cis·ion => precise【精确的】+ -ion 名词后缀，是单词 precise 派生的名词。
+
+10. **elaborate**
+  - a. 精细的，详尽的，精心计划（制作）的
+  - vt. 详尽阐述，详细描述，详细制定
+  - e·labor·ate => e- 出 + labor- 工作 + -ate 表形容词 → 做出来的 → 精工细做。
+
 
 ### 赏析一句英语句子
 
