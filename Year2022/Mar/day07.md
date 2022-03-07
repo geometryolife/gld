@@ -22,15 +22,54 @@
 ### 背诵 10 个新单词
 
 1. **widen**
+  - vt. 弄宽，加宽，扩大
+  - vi. 变宽，扩大
+  - wid·en => wide【宽的，广阔的】+ -en 表动词。
+
 2. **spacious**
+  - a. 广大的，宽广的
+  - spac·ious => space【空间】+ -ious 表形容词，是单词 space 派生的形容词。
+
 3. **material**
+  - n. 材料，物资，素材，布料，资料
+  - a. 物质的，肉体的，重要的
+  - mater·ial => mater- 母亲，母姓 + -ial 形容词或名词后缀 → (人)的出生、物质的起源 → 肉体，素材，材料。
+  - mater- = mother，表示“母性，母亲”，源自拉丁语 mater "mother", 属格形式 matris。母亲生出各种各样的孩子，就好像原材料做出各种物品一样，由此引出材料的含义。
+
 4. **materialistic**
+  - a. 唯物论的，唯物主义的
+  - mater·ial·ist·ic => materialist【唯物主义者】+ -ic 表形容词 → 唯物主义的。
+  - mater·ial·ist => material【物质】+ -ist 表人，一般为专家 → 唯物主义者。
+
 5. **indeed**
+  - ad. 的确，实在，真正地，甚至
+  - in·deed => in- 在……内 + deed【n. 行为，实行，契约】连写后作为副词使用。
+  - deed 来自 PIE dhe 做，树立，放置，词源同 do，fact 用于指行为，契约。
+
 6. **factual**
+  - a. 事实的，实际的
+  - fact·ual => fact- 做 + -ual 表形容词 → 做实事 → 实事求是，实际的。
+
 7. **ordinary**
+  - a. 平常的，普通的，平凡的
+  - n. 平常的人（或事）
+  - ordin·ary => ordin- 命令 + -ary 表形容词 → 有顺序的，听命令的 → 普通的。
+
 8. **concrete**
+  - n. 凝结物，混凝土
+  - a. 具体的，实在的，混凝土的
+  - v. （使）凝结，用混凝土浇筑
+  - con·cret·e => con- 共同 + cret- 增长，产生，生长，创造 + -e → 长到一起的，聚合成块的 → 混凝土。
+
 9. **realistic**
+  - a. 现实的，逼真的，现实主义的，实在论的
+  - real·ist·ic => realist【现实主义者】+ -ic 表形容词 → 现实的。
+  - real·ist => real【真实的，现实的】+ -ist 表人 → 现实主义者。
+
 10. **livelihood**
+  - n. 生计，营生，生活
+  - live·li·hood => n. 生计。这个单词由三个部分组成，live + li + hood，第二个部分 li 同 load v. 负载和 lead v.领导，本意是行走（路程），扩展意负载，参考 loadstar n. 北极星，指导原则（引领路程）。后缀 -hood 见于如 childhood 等中，表状态和情况等，所以 livelihood 就是 means of keeping alive。
+
 
 
 ### 赏析一句英语句子
