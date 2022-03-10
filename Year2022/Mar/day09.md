@@ -27,15 +27,51 @@
 ### 背诵 10 个新单词
 
 1. **enormous**
+  - a. 巨大的，庞大的
+  - e·norm·ous => e- 出 + norm- 规则 + -ous 形容词后缀 → 出了正常状态 → 巨大的，过分的。
+
 2. **bulk**
+  - n. 大小，体积，大块，大多数
+  - vt. 显得大，显得重要
+  - 词源同ball, 膨胀，鼓起，球。
+
 3. **considerable**
+  - a. 相当的，客观的，重要的
+  - con·sider·able => consider【考虑】+ -able 表形容词。即值得考虑的，相当多的。
+  - con·sider => con- 共同 + sider- 星星 → 通过星位预测、思考命运 → 考虑。
+
 4. **sizable**
+  - a. 相当大的，大小相当的
+  - siz·able => size【大小】+ -able 表形容词 → 大小相当的。
+
 5. **tremendous**
+  - a. 巨大的，非常的，可怕的
+  - trem·end·ous => trem- 颤抖 + end + -ous 形容词后缀 → [让人]颤抖的 → 可怕的。
+
 6. **ruling**
+  - n. 判决，裁定，统治
+  - a. 统治的，支配的，普遍的
+  - rul·ing => rule【统治，支配，管理】+ -ing 表名词。
+
 7. **supreme**
+  - n. 至高，霸权
+  - a. 至高的，终极的，极端的，最大的
+  - supr·eme => supr- 超级，超过，在……上 + -eme → 超高 → 至高无上。
+
 8. **authority**
+  - n. 权力，当权者，当局，权威，专家
+  - auth·or·ity => auth- = aux-，aug-，auc- 增加（创造）+ -or- + -ity 名词后缀 → 创造者 → 主人 → 有权利的人。
+
 9. **leading**
+  - n. 领导，指挥，神示，铅板，行距
+  - a. 领导的，主要的，在前的
+  - lead·ing => lead【领导】+ -ing 表名词。
+  - lead => 来自 PIE leit 向前走，词源同 lodestar，lodestone 引申词义引导，领导。
+  - lead => Proto-Germanic lauda 铅，可能进一步来自 PIE ploud 流动，流体，词源同 plumb plumber。因铅是一种易溶易锻造的金属元素而得名，据历史记载，人们利用和使用铅的历史可追溯自公元 6000 多年前，该遗址位于今土耳其境内。
+
 10. **dominant**
+  - a. 占据优势的，支配的
+  - domin·ant => domin- = dom- 家、驯养 + -ant 表形容词 → 在家里有支配地位 → 支配的。
 
 
 ### 赏析一句英语句子
