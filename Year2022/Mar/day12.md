@@ -24,20 +24,52 @@
   - [x] [写在Rust 2021发布之前](https://zhuanlan.zhihu.com/p/422097323)
   - [x] [用户发帖称官方技术版块不该参与政治，Rust 社区锁帖](https://zhuanlan.zhihu.com/p/478601740)
   - [x] [在 RustCon Asia 开启之前，聊聊 Rust 中国社区那些事](https://zhuanlan.zhihu.com/p/62243443)
-- [x] 刷微信文章
 
 ### 背诵 10 个新单词
 
 1. **common**
+  - a. 通常的，共同的，通俗的，公共的
+  - com·mon => com- 强调 + mon 公共，词源同 mean, communicate → 公共的。
+
 2. **parallel**
+  - n. 平行，对比，相匹配之物
+  - a. 平行的，相似的
+  - vt. 与……平行，与……相似，相比，使平行
+  - para·llel => para- 在旁，在周围 + -allel = ali- 改变，另外的。allo- = other 异，其他 → 在旁边的另外一条，引申词义平行的，并列的。
+
 3. **likewise**
+  - ad. 同样地，也
+  - like·wise => like【相似】+ -wise 朝向 → 朝向相似 → 同样地。
+
 4. **resemble**
+  - vt. 相似，类似
+  - re·semble => re- 再 + semble- 一样 → 再一样 → 类似。
+
 5. **identical**
+  - a. 同一的，恒等的，完全相同的
+  - ident·ic·al => ident = same 相同 + -ic + -al 表形容词 → 同一的。
+
 6. **overlap**
+  - n. 重叠，重复，部分的同时发生
+  - vt. 重叠，重复，与……同时发生
+  - vi. 迭盖，部分的同时发生
+  - over·lap => over- 上 + lap【交叉】→ [大腿]交叉 → 重叠。
+
 7. **seemingly**
+  - a. 适当的，恰当的，合适的，好看的
+  - seem·ly => seem【似乎】，来自 seem 古义，使合适，使匹配，使合乎举止 + -ly 表形容词 → 适当的。
+
 8. **capable**
+  - a. 有能力的，能的，能干的
+  - cap·able => cap- 持，握，抓 + -able 表形容词 → 能够抓住 → 有能力的。
+
 9. **capability**
+  - cap·abil·ity => capable【能力】+ -ity 表名词 → 能力，性能。
+  - 注意：当 -able 后接 -ity 时，通常改写为 -abil。
+
 10. **inability**
+  - n. 无能，无力
+  - in·abil·ity => in- 不，非 + ability【能力】→ 没有能力 → 无能。
 
 
 ### 赏析一句英语句子
