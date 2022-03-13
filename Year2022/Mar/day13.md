@@ -27,15 +27,46 @@
 ### 背诵 10 个新单词
 
 1. **intellect**
+  - n. 智力，出众的才华，知识分子
+  - intel·lect => intel- 在……中间 + lect- 选择 → 在中间选出的人 → 智者。
+
 2. **intellectual**
+  - n. 有知识者，知识分子，凭理智做事者
+  - a. 智力的，用脑力的，聪明的
+  - intel·lect·ual => intellect【智力】+ -ual 表形容词或名词。
+
 3. **intellectualism**
+  - n. 智力活动，唯理智轮
+  - intel·lect·ual·ism => intellectual【智力的】+ -ism 表名词“……论”。
+
 4. **intelligence**
+  - n. 智力，情报，信息
+  - intel·lig·ence => intel- 在……中间 + lig- 选择 + -ence 表名词 → 从中选出好的 → 智力。
+
 5. **intelligent**
+  - a. 聪明的，智能的，了解的
+  - intel·lig·ent => intel- = inter- 在中间 + lig- 选择 + -ent 表形容词 → 会选择的 → 聪明的，有才智的。
+
 6. **capacity**
+  - n. 容量，能力，才能，资格
+  - cap·acity => cap- 拿 + -acity 表名词“有……的倾向”。
+
 7. **wisdom**
+  - n. 智慧，明智行为，学识，名言，贤人
+  - wise·dom => wis- 智慧，wise【智慧】+ -dom 抽象名词后缀 → 智慧。
+
 8. **qualify**
+  - vi. 取得资格，有资格
+  - vt. 使有资格，使合格，限定，限制，准予
+  - quali·fy => 来自 quality 质量，品质，-fy 使…… → 即使符合质量要求，引申词义使符合资格。
+
 9. **qualified**
+  - a. 有资格的
+  - quali·fi·ed => qualify【资格】+ -ed 表形容词 → 有资格的。
+
 10. **qualification**
+  - n. 资格，条件，限制
+  - quali·fic·ation => qualify【使有资格】+ -ic + -ation 表名词，使符合资格。引申词义资格，资质，资质文件等，是单词 qualify 派生的名词。
 
 
 ### 赏析一句英语句子
