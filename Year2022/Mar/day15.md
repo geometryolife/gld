@@ -26,16 +26,52 @@
 
 ### 背诵 10 个新单词
 
-1. **revival**
-2. **revive**
+1. **revive**
+  - vt. 使苏醒，使复兴，使振奋，回想起，重播
+  - vi. 苏醒，复活，复兴，恢复精神
+  - re·viv·e => re- 再 + viv- 生命，活 + -e → 再次拥有生命 → 复活。
+
+2. **revival**
+  - 复兴，复活，苏醒，恢复精神
+  - re·viv·al => re- 再 + viv- 生命，活 + -al 名词后缀 → 再次拥有生命 → 复活。
+
 3. **dynamic**
+  - a. 动态的，有活力的，有力的，动力的，不断变化的
+  - n. 动力，动态
+  - dynam·ic => dynam- 力量 + -ic 形容词或名词后缀 → 力量不断变化 → 动态的，有力的，动力。
+
 4. **refreshing**
+  - a. 使清爽的，有精神的，爽快的
+  - re·fresh·ing => refresh【使清新】+ -ing 表形容词 → 清爽，有精神的。
+  - re·fresh => re- 再，重新 + fresh【新鲜的，有活力的】→ 使清新。
+
 5. **renew**
+  - vt. 使更新，使恢复，复兴，修补，补充，继续，重订，重申，续借
+  - vi. 更新，重新开始
+  - re·new => re- 再，重新 + new【新的】→ 使恢复，更新。
+
 6. **liveliness**
+  - n. 活泼，快活，热闹
+  - live·li·ness => lively【活泼的】+ -ness 是单词 lively 派生的名词。
+  - live·ly => live【生动的，精神的】+ -ly 表形容词 → 活泼的，鲜明的，生动的。
+
 7. **suspect**
+  - n. 被怀疑者，嫌疑犯
+  - a. 令人怀疑的，不可信的，可疑的
+  - v. 怀疑，猜想
+  - sus·pect => sus- 在下（面），向上 + pect- 看 → 在下面看一看 → 怀疑。
+
 8. **suspicious**
+  - a. 可疑的，多疑的，怀疑的
+  - su·spic·ious => sus- 在下面 + spic- 看 + -ious 表形容词“……的” → 在下面看 → 怀疑的。
+
 9. **suspicion**
+  - n. 怀疑，察觉，嫌疑
+  - su·spic·ion => sus- 下面 + spic- 看 + -ion 表名词 → 在下面看 → 怀疑。
+
 10. **skeptical**
+  - a. 怀疑论的，怀疑的，不可知论的
+  - skept·ic·al => skept- 怀疑 + -ic + -al 表形容词 → 怀疑的。
 
 
 ### 赏析一句英语句子
