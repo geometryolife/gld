@@ -28,15 +28,52 @@
 ### 背诵 10 个新单词
 
 1. **habit**
+  - n. 习惯，嗜好，习性，服装
+  - vt. 使穿衣
+  - habit- 居住 → 住一个地方 → 习惯了。
+
 2. **custom**
+  - n. 习惯，风俗，海关，自定义
+  - a. 定制的
+  - custom- 由 com- (together) + idio- (oneself) 复合而成基本含义表示“习惯、惯例”引申为“海关”。
+
 3. **ritual**
+  - n. 仪式，典礼，宗教仪式，惯例，礼制
+  - a. 仪式的，依仪式进行的，礼节性的，例行的
+  - rit·ual => rit- 仪式，典礼 + -ual 名词或形容词后缀 → 仪式，典礼。
+
 4. **rut**
+  - n. 车辙，（比喻）刻板，惯例，发情期，性冲动，凹槽
+  - vt. 挖槽于，在……形成车辙
+  - vi. 形成车辙，发情
+
 5. **regularity**
+  - n. 规则性，匀整，正规，经常
+  - reg·ular·ity => regular【规则的，惯常的】+ -ity 表名词 → 规则性。
+  - reg·ular => reg- 直 + ular → 直的 → 规则的。
+
 6. **unexpected**
+  - a. 料想不到的，突然的，意外的
+  - un·ex·pect·ed => un- 不，非 + expected【期望的】→ 料想不到的，意外的。
+  - ex·pect·ed => expect【期待】+ -ed 表形容词 → 预期的。
+  - ex·pect => ex- 出 + spect- 看 → 向外看，向前看，看出去 → 期待。
+
 7. **dramatic**
+  - a. 戏剧性的，生动的
+  - drama·tic => drama- 表演 + -tic 与……相关的 → 和表演相关 → 戏剧性的。
+
 8. **dramatically**
+  - ad. 戏剧地，引人注目地，突然地
+  - drama·tic·ally => dramatic【戏剧性的】+ -ally 由 -al + -ly 组成的复合副词词根 → 戏剧地。
+
 9. **abrupt**
+  - a. 突然的，唐突的，陡峭的，不连贯的
+  - ab·rupt => ab- 离开 + rupt- 断裂，断开 → 突然断开，引申为突然 → 突然的。
+
 10. **dispute**
+  - n. 争论，辩论，争吵
+  - v. 争论，辩论，阻止，抗拒，怀疑
+  - dis·put·e => dis- 反 + put- 思考 + -e → 过来思考 → 反驳。
 
 
 ### 赏析一句英语句子
