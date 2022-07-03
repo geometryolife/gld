@@ -22,35 +22,44 @@
 ### 背诵 10 个新单词
 
 1. **incredible**
-  - 
+  - a. 难以置信的
+  - in·cred·ible => in-不，非 + credible【可相信的】→ 难以置信的。
 
 2. **credibility**
-  - 
+  - n. 可信用，确实性，可靠
+  - cred·ibility => cred- 相信，信任 + -ibility 是由 -ible 和 -ity 组成的复合词根，表名词。
 
 3. **reliable**
-  - 
+  - a. 可靠的，可信赖的
+  - re·li·able => re- 强调 + li- 捆绑 + -able 表形容词 → 引申为依赖 → 可靠的，可信赖的。
 
 4. **reliability**
-  - 
+  - n. 可信度，可靠性
+  - re·li·ability => reliable【可靠的】+ -ity 表名词 → 可信度，可靠性。
 
 5. **reliance**
-  - 
+  - re·li·ance => rely【依靠，信赖】+ -ance 表名词。
 
 6. **dependency**
-  - 
+  - n. 属国，从属物，保护地
+  - de·pend·ency => de- 加强 + pend- 挂 + -ency 表名词 → 挂在……上面 → 依靠 → 从属物。
 
 7. **authentic**
-  - 
+  - a. 可靠的，可信的，真正的
+  - aut·hent·ic => aut- 自己 + hent- = doer 坐 + -ic 表形容词，字面含义自己亲手所做，即真实可靠的。
 
 8. **frankly**
-  - 
+  - ad. 坦白地
+  - frank·ly => frank- 自由，坦白，特权 + -ly 表副词，是单词 frank 派生的副词 → 坦白地。
 
 9. **moral**
-  - 
+  - n. 道德，品行，寓意
+  - a. 道义的，道义上的，品行端正的，能辨别是非的
+  - mor·al => mor- 道德 + -al 表名词或形容词 → 道德的，道义的。
 
 10. **immoral**
-  - 
-
+  - a. 不道德的，邪恶的，放荡的
+  - im·mor·al => im- 不，非 + moral【道德的】→ 不道德的。
 
 ### 赏析一句英语句子
 
